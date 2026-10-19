@@ -1,0 +1,501 @@
+{
+ "id": "trees",
+ "duration": 34.92,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 3.58,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.23,
+     "end": 0.355
+    },
+    {
+     "text": "would",
+     "start": 0.38,
+     "end": 0.455
+    },
+    {
+     "text": "happen",
+     "start": 0.505,
+     "end": 0.83
+    },
+    {
+     "text": "if",
+     "start": 0.88,
+     "end": 0.98
+    },
+    {
+     "text": "every",
+     "start": 1.055,
+     "end": 1.305
+    },
+    {
+     "text": "tree",
+     "start": 1.38,
+     "end": 1.58
+    },
+    {
+     "text": "on",
+     "start": 1.605,
+     "end": 1.73
+    },
+    {
+     "text": "Earth",
+     "start": 1.805,
+     "end": 2.155
+    },
+    {
+     "text": "suddenly",
+     "start": 2.28,
+     "end": 2.63
+    },
+    {
+     "text": "disappeared?",
+     "start": 2.68,
+     "end": 3.35
+    }
+   ],
+   "start": 0.0,
+   "end": 3.83,
+   "labelAt": 0.15
+  },
+  {
+   "id": "air",
+   "audioStart": 4.03,
+   "audioEnd": 10.545,
+   "words": [
+    {
+     "text": "First,",
+     "start": 4.156,
+     "end": 4.506
+    },
+    {
+     "text": "don't",
+     "start": 4.626,
+     "end": 4.776
+    },
+    {
+     "text": "panic.",
+     "start": 4.851,
+     "end": 5.501
+    },
+    {
+     "text": "We'd",
+     "start": 5.626,
+     "end": 5.751
+    },
+    {
+     "text": "still",
+     "start": 5.801,
+     "end": 6.026
+    },
+    {
+     "text": "have",
+     "start": 6.076,
+     "end": 6.251
+    },
+    {
+     "text": "oxygen!",
+     "start": 6.326,
+     "end": 7.251
+    },
+    {
+     "text": "About",
+     "start": 7.651,
+     "end": 7.851
+    },
+    {
+     "text": "half",
+     "start": 7.926,
+     "end": 8.176
+    },
+    {
+     "text": "of",
+     "start": 8.201,
+     "end": 8.251
+    },
+    {
+     "text": "it",
+     "start": 8.276,
+     "end": 8.351
+    },
+    {
+     "text": "comes",
+     "start": 8.401,
+     "end": 8.651
+    },
+    {
+     "text": "from",
+     "start": 8.701,
+     "end": 8.851
+    },
+    {
+     "text": "tiny",
+     "start": 8.926,
+     "end": 9.326
+    },
+    {
+     "text": "ocean",
+     "start": 9.401,
+     "end": 9.751
+    },
+    {
+     "text": "plankton.",
+     "start": 9.801,
+     "end": 10.345
+    }
+   ],
+   "start": 3.83,
+   "end": 10.695,
+   "labelAt": 3.98
+  },
+  {
+   "id": "warm",
+   "audioStart": 10.895,
+   "audioEnd": 16.183,
+   "words": [
+    {
+     "text": "But",
+     "start": 10.95,
+     "end": 11.05
+    },
+    {
+     "text": "trees",
+     "start": 11.125,
+     "end": 11.5
+    },
+    {
+     "text": "soak",
+     "start": 11.575,
+     "end": 11.775
+    },
+    {
+     "text": "up",
+     "start": 11.8,
+     "end": 11.925
+    },
+    {
+     "text": "tons",
+     "start": 12.0,
+     "end": 12.35
+    },
+    {
+     "text": "of",
+     "start": 12.375,
+     "end": 12.45
+    },
+    {
+     "text": "carbon",
+     "start": 12.525,
+     "end": 12.85
+    },
+    {
+     "text": "dioxide,",
+     "start": 12.9,
+     "end": 13.975
+    },
+    {
+     "text": "so",
+     "start": 14.125,
+     "end": 14.225
+    },
+    {
+     "text": "the",
+     "start": 14.25,
+     "end": 14.3
+    },
+    {
+     "text": "planet",
+     "start": 14.375,
+     "end": 14.775
+    },
+    {
+     "text": "would",
+     "start": 14.825,
+     "end": 14.925
+    },
+    {
+     "text": "heat",
+     "start": 15.0,
+     "end": 15.2
+    },
+    {
+     "text": "up",
+     "start": 15.225,
+     "end": 15.35
+    },
+    {
+     "text": "faster.",
+     "start": 15.425,
+     "end": 15.993
+    }
+   ],
+   "start": 10.695,
+   "end": 16.333,
+   "labelAt": 10.845
+  },
+  {
+   "id": "soil",
+   "audioStart": 16.533,
+   "audioEnd": 20.563,
+   "words": [
+    {
+     "text": "Without",
+     "start": 16.592,
+     "end": 16.942
+    },
+    {
+     "text": "roots",
+     "start": 17.017,
+     "end": 17.267
+    },
+    {
+     "text": "to",
+     "start": 17.317,
+     "end": 17.367
+    },
+    {
+     "text": "hold",
+     "start": 17.417,
+     "end": 17.642
+    },
+    {
+     "text": "the",
+     "start": 17.667,
+     "end": 17.717
+    },
+    {
+     "text": "ground,",
+     "start": 17.767,
+     "end": 18.417
+    },
+    {
+     "text": "rain",
+     "start": 18.592,
+     "end": 18.942
+    },
+    {
+     "text": "would",
+     "start": 18.992,
+     "end": 19.092
+    },
+    {
+     "text": "wash",
+     "start": 19.142,
+     "end": 19.417
+    },
+    {
+     "text": "the",
+     "start": 19.467,
+     "end": 19.542
+    },
+    {
+     "text": "soil",
+     "start": 19.617,
+     "end": 19.892
+    },
+    {
+     "text": "away.",
+     "start": 19.942,
+     "end": 20.373
+    }
+   ],
+   "start": 16.333,
+   "end": 20.713,
+   "labelAt": 16.483
+  },
+  {
+   "id": "homes",
+   "audioStart": 20.913,
+   "audioEnd": 25.285,
+   "words": [
+    {
+     "text": "Millions",
+     "start": 21.001,
+     "end": 21.401
+    },
+    {
+     "text": "of",
+     "start": 21.426,
+     "end": 21.501
+    },
+    {
+     "text": "animals,",
+     "start": 21.576,
+     "end": 22.026
+    },
+    {
+     "text": "like",
+     "start": 22.186,
+     "end": 22.361
+    },
+    {
+     "text": "owls",
+     "start": 22.461,
+     "end": 22.836
+    },
+    {
+     "text": "and",
+     "start": 22.861,
+     "end": 22.936
+    },
+    {
+     "text": "squirrels,",
+     "start": 23.011,
+     "end": 23.736
+    },
+    {
+     "text": "would",
+     "start": 23.861,
+     "end": 23.986
+    },
+    {
+     "text": "lose",
+     "start": 24.036,
+     "end": 24.261
+    },
+    {
+     "text": "their",
+     "start": 24.311,
+     "end": 24.461
+    },
+    {
+     "text": "homes.",
+     "start": 24.511,
+     "end": 25.055
+    }
+   ],
+   "start": 20.713,
+   "end": 25.435,
+   "labelAt": 20.863
+  },
+  {
+   "id": "shade",
+   "audioStart": 25.635,
+   "audioEnd": 29.688,
+   "words": [
+    {
+     "text": "And",
+     "start": 25.762,
+     "end": 25.862
+    },
+    {
+     "text": "cities",
+     "start": 25.937,
+     "end": 26.337
+    },
+    {
+     "text": "would",
+     "start": 26.362,
+     "end": 26.437
+    },
+    {
+     "text": "get",
+     "start": 26.487,
+     "end": 26.612
+    },
+    {
+     "text": "much",
+     "start": 26.662,
+     "end": 26.837
+    },
+    {
+     "text": "hotter,",
+     "start": 26.887,
+     "end": 27.512
+    },
+    {
+     "text": "with",
+     "start": 27.662,
+     "end": 27.812
+    },
+    {
+     "text": "no",
+     "start": 27.887,
+     "end": 28.062
+    },
+    {
+     "text": "shade",
+     "start": 28.162,
+     "end": 28.412
+    },
+    {
+     "text": "to",
+     "start": 28.462,
+     "end": 28.537
+    },
+    {
+     "text": "cool",
+     "start": 28.612,
+     "end": 28.862
+    },
+    {
+     "text": "them",
+     "start": 28.887,
+     "end": 29.037
+    },
+    {
+     "text": "down.",
+     "start": 29.087,
+     "end": 29.518
+    }
+   ],
+   "start": 25.435,
+   "end": 29.838,
+   "labelAt": 25.585
+  },
+  {
+   "id": "outro",
+   "audioStart": 30.038,
+   "audioEnd": 33.32,
+   "words": [
+    {
+     "text": "So,",
+     "start": 30.143,
+     "end": 30.318
+    },
+    {
+     "text": "thank",
+     "start": 30.393,
+     "end": 30.568
+    },
+    {
+     "text": "you,",
+     "start": 30.618,
+     "end": 30.693
+    },
+    {
+     "text": "trees!",
+     "start": 30.768,
+     "end": 31.368
+    },
+    {
+     "text": "Subscribe",
+     "start": 31.543,
+     "end": 32.118
+    },
+    {
+     "text": "for",
+     "start": 32.168,
+     "end": 32.268
+    },
+    {
+     "text": "more",
+     "start": 32.318,
+     "end": 32.493
+    },
+    {
+     "text": "what-ifs.",
+     "start": 32.543,
+     "end": 33.11
+    }
+   ],
+   "start": 29.838,
+   "end": 34.92,
+   "labelAt": 29.988
+  }
+ ]
+}

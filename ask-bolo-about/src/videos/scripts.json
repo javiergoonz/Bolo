@@ -1,0 +1,147 @@
+{
+  "voice": "am_michael",
+  "speed": 1.1,
+  "videos": [
+    {
+      "id": "sun",
+      "comp": "WhatIfSun",
+      "title": { "top": "WHAT IF THE SUN SUDDENLY", "pill": "DISAPPEARED?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if the Sun suddenly disappeared?" },
+        { "id": "delay", "label": { "text": "8 MINUTES", "style": "card" }, "text": "For about eight minutes, nothing at all! That's how long sunlight takes to reach us." },
+        { "id": "dark", "label": { "text": "TOTAL DARKNESS", "style": "red" }, "text": "Then, the sky would go black. Even the Moon would vanish, because moonlight is just reflected sunlight." },
+        { "id": "plants", "label": { "text": "NO MORE FOOD", "style": "yellow" }, "text": "Plants would stop making food, and slowly start to die." },
+        { "id": "drift", "label": { "text": "LOST IN SPACE", "style": "card" }, "text": "Without the Sun's pull, Earth would fly off in a straight line, into deep space." },
+        { "id": "cold", "label": { "text": "DEEP FREEZE", "style": "yellow" }, "text": "But the biggest change would be the cold. In a week, it would be colder than any winter. Within a year, the oceans would freeze over." },
+        { "id": "vents", "label": { "text": "LIFE HANGS ON", "style": "card" }, "text": "Still, deep under the ice, tiny life could survive near warm volcanic vents." },
+        { "id": "outro", "label": { "text": "THANK YOU, SUN!", "style": "yellow" }, "text": "So, thank you, Sun! Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "spin",
+      "comp": "WhatIfEarthStoppedSpinning",
+      "title": { "top": "WHAT IF EARTH STOPPED", "pill": "SPINNING?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if Earth slowly stopped spinning?" },
+        { "id": "longday", "label": { "text": "A YEAR-LONG DAY", "style": "card" }, "text": "First, one day would last a whole year! Six months of sunshine, then six months of darkness." },
+        { "id": "hotcold", "label": { "text": "BAKE AND FREEZE", "style": "red" }, "text": "The day side would bake under the Sun, while the night side would freeze solid." },
+        { "id": "oceans", "label": { "text": "OCEANS ON THE MOVE", "style": "yellow" }, "text": "The oceans would move too! Without the spin, water would slide toward the poles." },
+        { "id": "continent", "label": { "text": "ONE GIANT CONTINENT", "style": "card" }, "text": "That would leave one giant continent, wrapped around the middle of the planet." },
+        { "id": "storms", "label": { "text": "NO HURRICANES", "style": "red" }, "text": "And the weather would totally change. Hurricanes couldn't form, because Earth's spin is what makes them swirl." },
+        { "id": "outro", "label": { "text": "KEEP SPINNING, EARTH!", "style": "yellow" }, "text": "So, keep spinning, Earth! Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "bees",
+      "comp": "WhatIfBeesDisappeared",
+      "title": { "top": "WHAT IF ALL THE BEES", "pill": "DISAPPEARED?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if all the bees suddenly disappeared?" },
+        { "id": "pollen", "label": { "text": "NO POLLINATION", "style": "card" }, "text": "First, lots of flowers would stop making seeds. Bees carry pollen from flower to flower." },
+        { "id": "food", "label": { "text": "FOOD IN TROUBLE", "style": "red" }, "text": "Apples, almonds and blueberries would become rare and expensive. And no more honey!" },
+        { "id": "hand", "label": { "text": "HAND POLLINATION", "style": "card" }, "text": "Farmers would have to pollinate by hand, one flower at a time." },
+        { "id": "animals", "label": { "text": "HUNGRY ANIMALS", "style": "yellow" }, "text": "Animals that eat those fruits and seeds would go hungry too." },
+        { "id": "grains", "label": { "text": "GRAINS ARE OK", "style": "card" }, "text": "But we wouldn't starve. Wheat, rice and corn are pollinated by the wind." },
+        { "id": "outro", "label": { "text": "THANK YOU, BEES!", "style": "yellow" }, "text": "Still, our meals would be way more boring. So, thank you, bees! Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "trees",
+      "comp": "WhatIfTreesDisappeared",
+      "title": { "top": "WHAT IF ALL THE TREES", "pill": "DISAPPEARED?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if every tree on Earth suddenly disappeared?" },
+        { "id": "air", "label": { "text": "WE'D STILL BREATHE", "style": "card" }, "text": "First, don't panic. We'd still have oxygen! About half of it comes from tiny ocean plankton." },
+        { "id": "warm", "label": { "text": "A HOTTER PLANET", "style": "red" }, "text": "But trees soak up tons of carbon dioxide, so the planet would heat up faster." },
+        { "id": "soil", "label": { "text": "SLIDING SOIL", "style": "yellow" }, "text": "Without roots to hold the ground, rain would wash the soil away." },
+        { "id": "homes", "label": { "text": "LOST HOMES", "style": "card" }, "text": "Millions of animals, like owls and squirrels, would lose their homes." },
+        { "id": "shade", "label": { "text": "NO MORE SHADE", "style": "red" }, "text": "And cities would get much hotter, with no shade to cool them down." },
+        { "id": "outro", "label": { "text": "THANK YOU, TREES!", "style": "yellow" }, "text": "So, thank you, trees! Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "rings",
+      "comp": "WhatIfEarthHadRings",
+      "title": { "top": "WHAT IF EARTH HAD", "pill": "RINGS?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if Earth had rings, just like Saturn?" },
+        { "id": "arch", "label": { "text": "A SKY ARCH", "style": "card" }, "text": "First, the sky would look amazing! A huge glowing arch, stretching from one side of the sky to the other." },
+        { "id": "edge", "label": { "text": "EDGE-ON VIEW", "style": "yellow" }, "text": "Right at the equator, though, you'd see them edge-on, as a thin line straight overhead." },
+        { "id": "shadow", "label": { "text": "RING SHADOWS", "style": "red" }, "text": "The rings would also cast giant shadows, making some winters even colder." },
+        { "id": "nights", "label": { "text": "BRIGHTER NIGHTS", "style": "card" }, "text": "At night, they'd reflect sunlight, so nights would never get fully dark." },
+        { "id": "rockets", "label": { "text": "SPACE TRAFFIC", "style": "red" }, "text": "But launching rockets would be tricky. Those rings are full of ice and rock!" },
+        { "id": "outro", "label": { "text": "WOULD YOU WANT RINGS?", "style": "yellow" }, "text": "So, would you want rings? Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "ice",
+      "comp": "WhatIfIceMelted",
+      "title": { "top": "WHAT IF ALL THE ICE", "pill": "MELTED?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if all the ice on Earth melted?" },
+        { "id": "rise", "label": { "text": "SEAS RISE 70 METERS", "style": "card" }, "text": "First, the oceans would rise about seventy meters. That's taller than a twenty-story building!" },
+        { "id": "cities", "label": { "text": "CITIES UNDERWATER", "style": "red" }, "text": "Lots of coastal cities would end up underwater, and every map would need redrawing." },
+        { "id": "animals", "label": { "text": "LOST HOMES", "style": "card" }, "text": "Polar bears and penguins would lose their icy homes." },
+        { "id": "warmer", "label": { "text": "EVEN WARMER", "style": "yellow" }, "text": "And without bright ice to bounce sunlight away, Earth would heat up even faster." },
+        { "id": "slow", "label": { "text": "THOUSANDS OF YEARS", "style": "card" }, "text": "The good news? Melting all of it would take thousands of years." },
+        { "id": "outro", "label": { "text": "THANK YOU, ICE!", "style": "yellow" }, "text": "So, thank you, ice! Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "oceans",
+      "comp": "WhatIfOceansDriedUp",
+      "title": { "top": "WHAT IF THE OCEANS", "pill": "DRIED UP?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if all the oceans suddenly dried up?" },
+        { "id": "rain", "label": { "text": "NO MORE RAIN", "style": "card" }, "text": "First, it would almost stop raining. Most rain starts as ocean water that evaporates." },
+        { "id": "desert", "label": { "text": "ONE BIG DESERT", "style": "yellow" }, "text": "Rivers and lakes would dry out, turning the land into one giant desert." },
+        { "id": "temps", "label": { "text": "WILD TEMPERATURES", "style": "red" }, "text": "Oceans keep temperatures steady, so days would be scorching, and nights freezing." },
+        { "id": "oxygen", "label": { "text": "LESS OXYGEN", "style": "card" }, "text": "We'd also lose the plankton that make about half the oxygen we breathe." },
+        { "id": "trench", "label": { "text": "11 KM DEEP", "style": "card" }, "text": "On the bright side, you could walk down into the Mariana Trench. It's eleven kilometers deep!" },
+        { "id": "outro", "label": { "text": "THANK YOU, OCEANS!", "style": "yellow" }, "text": "So, thank you, oceans! Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "dinos",
+      "comp": "WhatIfDinosaursSurvived",
+      "title": { "top": "WHAT IF DINOSAURS NEVER", "pill": "WENT EXTINCT?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if the dinosaurs never went extinct?" },
+        { "id": "miss", "label": { "text": "THE ASTEROID MISSES", "style": "card" }, "text": "Sixty-six million years ago, a giant asteroid hit Earth. But imagine it missed!" },
+        { "id": "rule", "label": { "text": "DINO PLANET", "style": "yellow" }, "text": "Dinosaurs would keep ruling the planet, on every single continent." },
+        { "id": "mammals", "label": { "text": "TINY MAMMALS", "style": "red" }, "text": "Mammals, like our ancestors, would probably stay small, hiding in burrows." },
+        { "id": "humans", "label": { "text": "NO HUMANS?", "style": "card" }, "text": "So humans might never have appeared at all!" },
+        { "id": "birds", "label": { "text": "BIRDS ARE DINOS", "style": "yellow" }, "text": "Fun fact: birds actually are dinosaurs. So some dinos did survive!" },
+        { "id": "outro", "label": { "text": "THANK YOU... ASTEROID?", "style": "yellow" }, "text": "So, thank you... asteroid? Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "friction",
+      "comp": "WhatIfNoFriction",
+      "title": { "top": "WHAT IF FRICTION", "pill": "DISAPPEARED?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if friction suddenly disappeared?" },
+        { "id": "walk", "label": { "text": "NO WALKING", "style": "card" }, "text": "First, you couldn't walk. Your shoes need friction to push against the ground." },
+        { "id": "hold", "label": { "text": "NOTHING TO GRAB", "style": "red" }, "text": "You couldn't hold anything, either. Your pencil would just slip right out of your hand." },
+        { "id": "screws", "label": { "text": "EVERYTHING FALLS APART", "style": "yellow" }, "text": "Knots would untie, and screws would slide right out of the walls." },
+        { "id": "cars", "label": { "text": "CARS GO NOWHERE", "style": "card" }, "text": "Car wheels would spin, without moving the car at all." },
+        { "id": "forever", "label": { "text": "NO STOPPING", "style": "red" }, "text": "And anything already moving would just keep sliding, forever!" },
+        { "id": "outro", "label": { "text": "THANK YOU, FRICTION!", "style": "yellow" }, "text": "So, thank you, friction! Subscribe for more what-ifs." }
+      ]
+    },
+    {
+      "id": "bigearth",
+      "comp": "WhatIfEarthTwiceAsBig",
+      "title": { "top": "WHAT IF EARTH WAS", "pill": "TWICE AS BIG?" },
+      "scenes": [
+        { "id": "hook", "text": "What would happen if Earth was twice as big?" },
+        { "id": "gravity", "label": { "text": "DOUBLE GRAVITY", "style": "card" }, "text": "If it were made of the same stuff, gravity would be twice as strong!" },
+        { "id": "jump", "label": { "text": "TINY JUMPS", "style": "yellow" }, "text": "You'd feel twice as heavy, and you could only jump half as high." },
+        { "id": "trees", "label": { "text": "SHORTER TREES", "style": "red" }, "text": "Trees and animals would grow shorter and sturdier, to carry their weight." },
+        { "id": "mountains", "label": { "text": "SMALLER MOUNTAINS", "style": "card" }, "text": "Mountains couldn't get as tall, either. They'd crumble under their own weight." },
+        { "id": "rockets", "label": { "text": "STUCK ON EARTH", "style": "red" }, "text": "But the biggest change? Escaping to space would be way harder. Rockets would need to be enormous!" },
+        { "id": "outro", "label": { "text": "JUST THE RIGHT SIZE!", "style": "yellow" }, "text": "So, thank you, Earth, for being just the right size! Subscribe for more what-ifs." }
+      ]
+    }
+  ]
+}

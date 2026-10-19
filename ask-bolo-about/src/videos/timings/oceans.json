@@ -1,0 +1,506 @@
+{
+ "id": "oceans",
+ "duration": 35.712,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 3.139,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.23,
+     "end": 0.355
+    },
+    {
+     "text": "would",
+     "start": 0.38,
+     "end": 0.455
+    },
+    {
+     "text": "happen",
+     "start": 0.505,
+     "end": 0.83
+    },
+    {
+     "text": "if",
+     "start": 0.88,
+     "end": 0.98
+    },
+    {
+     "text": "all",
+     "start": 1.03,
+     "end": 1.18
+    },
+    {
+     "text": "the",
+     "start": 1.205,
+     "end": 1.305
+    },
+    {
+     "text": "oceans",
+     "start": 1.38,
+     "end": 1.905
+    },
+    {
+     "text": "suddenly",
+     "start": 2.005,
+     "end": 2.355
+    },
+    {
+     "text": "dried",
+     "start": 2.405,
+     "end": 2.705
+    },
+    {
+     "text": "up?",
+     "start": 2.755,
+     "end": 3.009
+    }
+   ],
+   "start": 0.0,
+   "end": 3.389,
+   "labelAt": 0.15
+  },
+  {
+   "id": "rain",
+   "audioStart": 3.589,
+   "audioEnd": 9.326,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.694,
+     "end": 4.069
+    },
+    {
+     "text": "it",
+     "start": 4.229,
+     "end": 4.279
+    },
+    {
+     "text": "would",
+     "start": 4.304,
+     "end": 4.379
+    },
+    {
+     "text": "almost",
+     "start": 4.429,
+     "end": 4.729
+    },
+    {
+     "text": "stop",
+     "start": 4.779,
+     "end": 5.104
+    },
+    {
+     "text": "raining.",
+     "start": 5.179,
+     "end": 5.904
+    },
+    {
+     "text": "Most",
+     "start": 6.079,
+     "end": 6.354
+    },
+    {
+     "text": "rain",
+     "start": 6.404,
+     "end": 6.729
+    },
+    {
+     "text": "starts",
+     "start": 6.779,
+     "end": 7.079
+    },
+    {
+     "text": "as",
+     "start": 7.129,
+     "end": 7.254
+    },
+    {
+     "text": "ocean",
+     "start": 7.354,
+     "end": 7.729
+    },
+    {
+     "text": "water",
+     "start": 7.804,
+     "end": 8.079
+    },
+    {
+     "text": "that",
+     "start": 8.129,
+     "end": 8.229
+    },
+    {
+     "text": "evaporates.",
+     "start": 8.279,
+     "end": 9.096
+    }
+   ],
+   "start": 3.389,
+   "end": 9.476,
+   "labelAt": 3.539
+  },
+  {
+   "id": "desert",
+   "audioStart": 9.676,
+   "audioEnd": 14.017,
+   "words": [
+    {
+     "text": "Rivers",
+     "start": 9.763,
+     "end": 10.138
+    },
+    {
+     "text": "and",
+     "start": 10.188,
+     "end": 10.263
+    },
+    {
+     "text": "lakes",
+     "start": 10.313,
+     "end": 10.588
+    },
+    {
+     "text": "would",
+     "start": 10.638,
+     "end": 10.713
+    },
+    {
+     "text": "dry",
+     "start": 10.763,
+     "end": 11.038
+    },
+    {
+     "text": "out,",
+     "start": 11.088,
+     "end": 11.588
+    },
+    {
+     "text": "turning",
+     "start": 11.738,
+     "end": 12.013
+    },
+    {
+     "text": "the",
+     "start": 12.038,
+     "end": 12.088
+    },
+    {
+     "text": "land",
+     "start": 12.138,
+     "end": 12.413
+    },
+    {
+     "text": "into",
+     "start": 12.438,
+     "end": 12.638
+    },
+    {
+     "text": "one",
+     "start": 12.713,
+     "end": 12.963
+    },
+    {
+     "text": "giant",
+     "start": 13.038,
+     "end": 13.413
+    },
+    {
+     "text": "desert.",
+     "start": 13.463,
+     "end": 13.857
+    }
+   ],
+   "start": 9.476,
+   "end": 14.167,
+   "labelAt": 9.626
+  },
+  {
+   "id": "temps",
+   "audioStart": 14.367,
+   "audioEnd": 19.197,
+   "words": [
+    {
+     "text": "Oceans",
+     "start": 14.515,
+     "end": 14.915
+    },
+    {
+     "text": "keep",
+     "start": 14.965,
+     "end": 15.115
+    },
+    {
+     "text": "temperatures",
+     "start": 15.165,
+     "end": 15.69
+    },
+    {
+     "text": "steady,",
+     "start": 15.74,
+     "end": 16.315
+    },
+    {
+     "text": "so",
+     "start": 16.465,
+     "end": 16.59
+    },
+    {
+     "text": "days",
+     "start": 16.665,
+     "end": 17.015
+    },
+    {
+     "text": "would",
+     "start": 17.04,
+     "end": 17.115
+    },
+    {
+     "text": "be",
+     "start": 17.165,
+     "end": 17.24
+    },
+    {
+     "text": "scorching,",
+     "start": 17.315,
+     "end": 17.89
+    },
+    {
+     "text": "and",
+     "start": 17.965,
+     "end": 18.04
+    },
+    {
+     "text": "nights",
+     "start": 18.09,
+     "end": 18.365
+    },
+    {
+     "text": "freezing.",
+     "start": 18.44,
+     "end": 18.997
+    }
+   ],
+   "start": 14.167,
+   "end": 19.347,
+   "labelAt": 14.317
+  },
+  {
+   "id": "oxygen",
+   "audioStart": 19.547,
+   "audioEnd": 24.032,
+   "words": [
+    {
+     "text": "We'd",
+     "start": 19.605,
+     "end": 19.73
+    },
+    {
+     "text": "also",
+     "start": 19.78,
+     "end": 20.13
+    },
+    {
+     "text": "lose",
+     "start": 20.205,
+     "end": 20.455
+    },
+    {
+     "text": "the",
+     "start": 20.505,
+     "end": 20.555
+    },
+    {
+     "text": "plankton",
+     "start": 20.63,
+     "end": 21.08
+    },
+    {
+     "text": "that",
+     "start": 21.13,
+     "end": 21.23
+    },
+    {
+     "text": "make",
+     "start": 21.28,
+     "end": 21.455
+    },
+    {
+     "text": "about",
+     "start": 21.48,
+     "end": 22.005
+    },
+    {
+     "text": "half",
+     "start": 22.105,
+     "end": 22.33
+    },
+    {
+     "text": "the",
+     "start": 22.355,
+     "end": 22.455
+    },
+    {
+     "text": "oxygen",
+     "start": 22.53,
+     "end": 23.055
+    },
+    {
+     "text": "we",
+     "start": 23.105,
+     "end": 23.23
+    },
+    {
+     "text": "breathe.",
+     "start": 23.28,
+     "end": 23.792
+    }
+   ],
+   "start": 19.347,
+   "end": 24.182,
+   "labelAt": 19.497
+  },
+  {
+   "id": "trench",
+   "audioStart": 24.382,
+   "audioEnd": 30.329,
+   "words": [
+    {
+     "text": "On",
+     "start": 24.533,
+     "end": 24.633
+    },
+    {
+     "text": "the",
+     "start": 24.633,
+     "end": 24.683
+    },
+    {
+     "text": "bright",
+     "start": 24.733,
+     "end": 25.008
+    },
+    {
+     "text": "side,",
+     "start": 25.083,
+     "end": 25.633
+    },
+    {
+     "text": "you",
+     "start": 25.758,
+     "end": 25.833
+    },
+    {
+     "text": "could",
+     "start": 25.883,
+     "end": 26.008
+    },
+    {
+     "text": "walk",
+     "start": 26.058,
+     "end": 26.308
+    },
+    {
+     "text": "down",
+     "start": 26.358,
+     "end": 26.658
+    },
+    {
+     "text": "into",
+     "start": 26.683,
+     "end": 26.833
+    },
+    {
+     "text": "the",
+     "start": 26.858,
+     "end": 26.908
+    },
+    {
+     "text": "Mariana",
+     "start": 26.958,
+     "end": 27.458
+    },
+    {
+     "text": "Trench.",
+     "start": 27.533,
+     "end": 28.258
+    },
+    {
+     "text": "It's",
+     "start": 28.433,
+     "end": 28.558
+    },
+    {
+     "text": "eleven",
+     "start": 28.608,
+     "end": 28.983
+    },
+    {
+     "text": "kilometers",
+     "start": 29.033,
+     "end": 29.658
+    },
+    {
+     "text": "deep!",
+     "start": 29.733,
+     "end": 30.099
+    }
+   ],
+   "start": 24.182,
+   "end": 30.479,
+   "labelAt": 24.332
+  },
+  {
+   "id": "outro",
+   "audioStart": 30.679,
+   "audioEnd": 34.112,
+   "words": [
+    {
+     "text": "So,",
+     "start": 30.784,
+     "end": 30.984
+    },
+    {
+     "text": "thank",
+     "start": 31.059,
+     "end": 31.259
+    },
+    {
+     "text": "you,",
+     "start": 31.309,
+     "end": 31.384
+    },
+    {
+     "text": "oceans!",
+     "start": 31.459,
+     "end": 32.159
+    },
+    {
+     "text": "Subscribe",
+     "start": 32.334,
+     "end": 32.909
+    },
+    {
+     "text": "for",
+     "start": 32.959,
+     "end": 33.059
+    },
+    {
+     "text": "more",
+     "start": 33.109,
+     "end": 33.284
+    },
+    {
+     "text": "what-ifs.",
+     "start": 33.334,
+     "end": 33.922
+    }
+   ],
+   "start": 30.479,
+   "end": 35.712,
+   "labelAt": 30.629
+  }
+ ]
+}

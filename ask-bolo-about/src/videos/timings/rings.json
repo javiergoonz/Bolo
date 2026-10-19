@@ -1,0 +1,536 @@
+{
+ "id": "rings",
+ "duration": 35.955,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 3.247,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.23,
+     "end": 0.355
+    },
+    {
+     "text": "would",
+     "start": 0.38,
+     "end": 0.455
+    },
+    {
+     "text": "happen",
+     "start": 0.505,
+     "end": 0.78
+    },
+    {
+     "text": "if",
+     "start": 0.83,
+     "end": 0.93
+    },
+    {
+     "text": "Earth",
+     "start": 1.005,
+     "end": 1.18
+    },
+    {
+     "text": "had",
+     "start": 1.205,
+     "end": 1.355
+    },
+    {
+     "text": "rings,",
+     "start": 1.43,
+     "end": 1.98
+    },
+    {
+     "text": "just",
+     "start": 2.105,
+     "end": 2.28
+    },
+    {
+     "text": "like",
+     "start": 2.305,
+     "end": 2.455
+    },
+    {
+     "text": "Saturn?",
+     "start": 2.53,
+     "end": 3.137
+    }
+   ],
+   "start": 0.0,
+   "end": 3.497,
+   "labelAt": 0.15
+  },
+  {
+   "id": "arch",
+   "audioStart": 3.697,
+   "audioEnd": 10.483,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.802,
+     "end": 4.102
+    },
+    {
+     "text": "the",
+     "start": 4.232,
+     "end": 4.282
+    },
+    {
+     "text": "sky",
+     "start": 4.357,
+     "end": 4.732
+    },
+    {
+     "text": "would",
+     "start": 4.782,
+     "end": 4.882
+    },
+    {
+     "text": "look",
+     "start": 4.932,
+     "end": 5.057
+    },
+    {
+     "text": "amazing!",
+     "start": 5.107,
+     "end": 5.582
+    },
+    {
+     "text": "A",
+     "start": 5.582,
+     "end": 6.032
+    },
+    {
+     "text": "huge",
+     "start": 6.182,
+     "end": 6.707
+    },
+    {
+     "text": "glowing",
+     "start": 6.782,
+     "end": 7.157
+    },
+    {
+     "text": "arch,",
+     "start": 7.232,
+     "end": 7.782
+    },
+    {
+     "text": "stretching",
+     "start": 7.932,
+     "end": 8.357
+    },
+    {
+     "text": "from",
+     "start": 8.407,
+     "end": 8.557
+    },
+    {
+     "text": "one",
+     "start": 8.632,
+     "end": 8.807
+    },
+    {
+     "text": "side",
+     "start": 8.882,
+     "end": 9.107
+    },
+    {
+     "text": "of",
+     "start": 9.132,
+     "end": 9.207
+    },
+    {
+     "text": "the",
+     "start": 9.207,
+     "end": 9.257
+    },
+    {
+     "text": "sky",
+     "start": 9.332,
+     "end": 9.707
+    },
+    {
+     "text": "to",
+     "start": 9.757,
+     "end": 9.782
+    },
+    {
+     "text": "the",
+     "start": 9.782,
+     "end": 9.807
+    },
+    {
+     "text": "other.",
+     "start": 9.832,
+     "end": 10.283
+    }
+   ],
+   "start": 3.497,
+   "end": 10.633,
+   "labelAt": 3.647
+  },
+  {
+   "id": "edge",
+   "audioStart": 10.833,
+   "audioEnd": 15.704,
+   "words": [
+    {
+     "text": "Right",
+     "start": 10.921,
+     "end": 11.121
+    },
+    {
+     "text": "at",
+     "start": 11.146,
+     "end": 11.196
+    },
+    {
+     "text": "the",
+     "start": 11.221,
+     "end": 11.321
+    },
+    {
+     "text": "equator,",
+     "start": 11.371,
+     "end": 11.821
+    },
+    {
+     "text": "though,",
+     "start": 11.896,
+     "end": 12.296
+    },
+    {
+     "text": "you'd",
+     "start": 12.421,
+     "end": 12.571
+    },
+    {
+     "text": "see",
+     "start": 12.646,
+     "end": 12.796
+    },
+    {
+     "text": "them",
+     "start": 12.821,
+     "end": 12.946
+    },
+    {
+     "text": "edge-on,",
+     "start": 13.021,
+     "end": 13.646
+    },
+    {
+     "text": "as",
+     "start": 13.746,
+     "end": 13.921
+    },
+    {
+     "text": "a",
+     "start": 14.021,
+     "end": 14.121
+    },
+    {
+     "text": "thin",
+     "start": 14.121,
+     "end": 14.221
+    },
+    {
+     "text": "line",
+     "start": 14.271,
+     "end": 14.596
+    },
+    {
+     "text": "straight",
+     "start": 14.671,
+     "end": 14.896
+    },
+    {
+     "text": "overhead.",
+     "start": 14.921,
+     "end": 15.484
+    }
+   ],
+   "start": 10.633,
+   "end": 15.854,
+   "labelAt": 10.783
+  },
+  {
+   "id": "shadow",
+   "audioStart": 16.054,
+   "audioEnd": 20.911,
+   "words": [
+    {
+     "text": "The",
+     "start": 16.113,
+     "end": 16.188
+    },
+    {
+     "text": "rings",
+     "start": 16.238,
+     "end": 16.538
+    },
+    {
+     "text": "would",
+     "start": 16.563,
+     "end": 16.638
+    },
+    {
+     "text": "also",
+     "start": 16.688,
+     "end": 17.013
+    },
+    {
+     "text": "cast",
+     "start": 17.063,
+     "end": 17.338
+    },
+    {
+     "text": "giant",
+     "start": 17.388,
+     "end": 17.738
+    },
+    {
+     "text": "shadows,",
+     "start": 17.813,
+     "end": 18.588
+    },
+    {
+     "text": "making",
+     "start": 18.783,
+     "end": 19.058
+    },
+    {
+     "text": "some",
+     "start": 19.108,
+     "end": 19.258
+    },
+    {
+     "text": "winters",
+     "start": 19.333,
+     "end": 19.783
+    },
+    {
+     "text": "even",
+     "start": 19.833,
+     "end": 20.108
+    },
+    {
+     "text": "colder.",
+     "start": 20.183,
+     "end": 20.711
+    }
+   ],
+   "start": 15.854,
+   "end": 21.061,
+   "labelAt": 16.004
+  },
+  {
+   "id": "nights",
+   "audioStart": 21.261,
+   "audioEnd": 25.478,
+   "words": [
+    {
+     "text": "At",
+     "start": 21.408,
+     "end": 21.483
+    },
+    {
+     "text": "night,",
+     "start": 21.533,
+     "end": 21.758
+    },
+    {
+     "text": "they'd",
+     "start": 21.898,
+     "end": 22.023
+    },
+    {
+     "text": "reflect",
+     "start": 22.048,
+     "end": 22.398
+    },
+    {
+     "text": "sunlight,",
+     "start": 22.473,
+     "end": 23.148
+    },
+    {
+     "text": "so",
+     "start": 23.298,
+     "end": 23.423
+    },
+    {
+     "text": "nights",
+     "start": 23.498,
+     "end": 23.798
+    },
+    {
+     "text": "would",
+     "start": 23.848,
+     "end": 23.973
+    },
+    {
+     "text": "never",
+     "start": 24.023,
+     "end": 24.248
+    },
+    {
+     "text": "get",
+     "start": 24.298,
+     "end": 24.448
+    },
+    {
+     "text": "fully",
+     "start": 24.523,
+     "end": 24.748
+    },
+    {
+     "text": "dark.",
+     "start": 24.823,
+     "end": 25.319
+    }
+   ],
+   "start": 21.061,
+   "end": 25.628,
+   "labelAt": 21.211
+  },
+  {
+   "id": "rockets",
+   "audioStart": 25.828,
+   "audioEnd": 30.54,
+   "words": [
+    {
+     "text": "But",
+     "start": 25.883,
+     "end": 25.983
+    },
+    {
+     "text": "launching",
+     "start": 26.033,
+     "end": 26.458
+    },
+    {
+     "text": "rockets",
+     "start": 26.508,
+     "end": 26.958
+    },
+    {
+     "text": "would",
+     "start": 26.983,
+     "end": 27.058
+    },
+    {
+     "text": "be",
+     "start": 27.083,
+     "end": 27.158
+    },
+    {
+     "text": "tricky.",
+     "start": 27.233,
+     "end": 27.858
+    },
+    {
+     "text": "Those",
+     "start": 28.058,
+     "end": 28.308
+    },
+    {
+     "text": "rings",
+     "start": 28.383,
+     "end": 28.683
+    },
+    {
+     "text": "are",
+     "start": 28.708,
+     "end": 28.808
+    },
+    {
+     "text": "full",
+     "start": 28.908,
+     "end": 29.108
+    },
+    {
+     "text": "of",
+     "start": 29.158,
+     "end": 29.283
+    },
+    {
+     "text": "ice",
+     "start": 29.383,
+     "end": 29.708
+    },
+    {
+     "text": "and",
+     "start": 29.758,
+     "end": 29.833
+    },
+    {
+     "text": "rock!",
+     "start": 29.908,
+     "end": 30.33
+    }
+   ],
+   "start": 25.628,
+   "end": 30.69,
+   "labelAt": 25.778
+  },
+  {
+   "id": "outro",
+   "audioStart": 30.89,
+   "audioEnd": 34.355,
+   "words": [
+    {
+     "text": "So,",
+     "start": 31.016,
+     "end": 31.191
+    },
+    {
+     "text": "would",
+     "start": 31.241,
+     "end": 31.316
+    },
+    {
+     "text": "you",
+     "start": 31.366,
+     "end": 31.441
+    },
+    {
+     "text": "want",
+     "start": 31.491,
+     "end": 31.716
+    },
+    {
+     "text": "rings?",
+     "start": 31.766,
+     "end": 32.366
+    },
+    {
+     "text": "Subscribe",
+     "start": 32.541,
+     "end": 33.116
+    },
+    {
+     "text": "for",
+     "start": 33.166,
+     "end": 33.266
+    },
+    {
+     "text": "more",
+     "start": 33.316,
+     "end": 33.491
+    },
+    {
+     "text": "what-ifs.",
+     "start": 33.541,
+     "end": 34.175
+    }
+   ],
+   "start": 30.69,
+   "end": 35.955,
+   "labelAt": 30.84
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "id": "spin",
+ "duration": 36.107,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 2.709,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.23,
+     "end": 0.33
+    },
+    {
+     "text": "would",
+     "start": 0.355,
+     "end": 0.43
+    },
+    {
+     "text": "happen",
+     "start": 0.48,
+     "end": 0.755
+    },
+    {
+     "text": "if",
+     "start": 0.805,
+     "end": 0.905
+    },
+    {
+     "text": "Earth",
+     "start": 0.955,
+     "end": 1.155
+    },
+    {
+     "text": "slowly",
+     "start": 1.23,
+     "end": 1.605
+    },
+    {
+     "text": "stopped",
+     "start": 1.655,
+     "end": 1.98
+    },
+    {
+     "text": "spinning?",
+     "start": 2.03,
+     "end": 2.689
+    }
+   ],
+   "start": 0.0,
+   "end": 2.959,
+   "labelAt": 0.15
+  },
+  {
+   "id": "longday",
+   "audioStart": 3.159,
+   "audioEnd": 9.142,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.264,
+     "end": 3.539
+    },
+    {
+     "text": "one",
+     "start": 3.714,
+     "end": 3.889
+    },
+    {
+     "text": "day",
+     "start": 3.939,
+     "end": 4.114
+    },
+    {
+     "text": "would",
+     "start": 4.164,
+     "end": 4.289
+    },
+    {
+     "text": "last",
+     "start": 4.339,
+     "end": 4.664
+    },
+    {
+     "text": "a",
+     "start": 4.714,
+     "end": 4.789
+    },
+    {
+     "text": "whole",
+     "start": 4.789,
+     "end": 4.964
+    },
+    {
+     "text": "year!",
+     "start": 5.039,
+     "end": 5.664
+    },
+    {
+     "text": "Six",
+     "start": 5.864,
+     "end": 6.089
+    },
+    {
+     "text": "months",
+     "start": 6.139,
+     "end": 6.364
+    },
+    {
+     "text": "of",
+     "start": 6.389,
+     "end": 6.464
+    },
+    {
+     "text": "sunshine,",
+     "start": 6.539,
+     "end": 7.264
+    },
+    {
+     "text": "then",
+     "start": 7.364,
+     "end": 7.514
+    },
+    {
+     "text": "six",
+     "start": 7.614,
+     "end": 7.864
+    },
+    {
+     "text": "months",
+     "start": 7.914,
+     "end": 8.139
+    },
+    {
+     "text": "of",
+     "start": 8.164,
+     "end": 8.239
+    },
+    {
+     "text": "darkness.",
+     "start": 8.289,
+     "end": 8.912
+    }
+   ],
+   "start": 2.959,
+   "end": 9.292,
+   "labelAt": 3.109
+  },
+  {
+   "id": "hotcold",
+   "audioStart": 9.492,
+   "audioEnd": 13.861,
+   "words": [
+    {
+     "text": "The",
+     "start": 9.551,
+     "end": 9.601
+    },
+    {
+     "text": "day",
+     "start": 9.651,
+     "end": 9.826
+    },
+    {
+     "text": "side",
+     "start": 9.901,
+     "end": 10.201
+    },
+    {
+     "text": "would",
+     "start": 10.251,
+     "end": 10.351
+    },
+    {
+     "text": "bake",
+     "start": 10.401,
+     "end": 10.601
+    },
+    {
+     "text": "under",
+     "start": 10.626,
+     "end": 10.776
+    },
+    {
+     "text": "the",
+     "start": 10.801,
+     "end": 10.876
+    },
+    {
+     "text": "Sun,",
+     "start": 10.976,
+     "end": 11.476
+    },
+    {
+     "text": "while",
+     "start": 11.626,
+     "end": 11.751
+    },
+    {
+     "text": "the",
+     "start": 11.776,
+     "end": 11.826
+    },
+    {
+     "text": "night",
+     "start": 11.876,
+     "end": 12.101
+    },
+    {
+     "text": "side",
+     "start": 12.176,
+     "end": 12.501
+    },
+    {
+     "text": "would",
+     "start": 12.551,
+     "end": 12.676
+    },
+    {
+     "text": "freeze",
+     "start": 12.751,
+     "end": 13.076
+    },
+    {
+     "text": "solid.",
+     "start": 13.151,
+     "end": 13.631
+    }
+   ],
+   "start": 9.292,
+   "end": 14.011,
+   "labelAt": 9.442
+  },
+  {
+   "id": "oceans",
+   "audioStart": 14.211,
+   "audioEnd": 19.279,
+   "words": [
+    {
+     "text": "The",
+     "start": 14.266,
+     "end": 14.366
+    },
+    {
+     "text": "oceans",
+     "start": 14.441,
+     "end": 14.866
+    },
+    {
+     "text": "would",
+     "start": 14.916,
+     "end": 15.041
+    },
+    {
+     "text": "move",
+     "start": 15.091,
+     "end": 15.316
+    },
+    {
+     "text": "too!",
+     "start": 15.391,
+     "end": 15.966
+    },
+    {
+     "text": "Without",
+     "start": 16.116,
+     "end": 16.366
+    },
+    {
+     "text": "the",
+     "start": 16.391,
+     "end": 16.441
+    },
+    {
+     "text": "spin,",
+     "start": 16.516,
+     "end": 16.941
+    },
+    {
+     "text": "water",
+     "start": 17.126,
+     "end": 17.426
+    },
+    {
+     "text": "would",
+     "start": 17.476,
+     "end": 17.601
+    },
+    {
+     "text": "slide",
+     "start": 17.676,
+     "end": 18.076
+    },
+    {
+     "text": "toward",
+     "start": 18.126,
+     "end": 18.376
+    },
+    {
+     "text": "the",
+     "start": 18.401,
+     "end": 18.451
+    },
+    {
+     "text": "poles.",
+     "start": 18.501,
+     "end": 19.049
+    }
+   ],
+   "start": 14.011,
+   "end": 19.429,
+   "labelAt": 14.161
+  },
+  {
+   "id": "continent",
+   "audioStart": 19.629,
+   "audioEnd": 23.841,
+   "words": [
+    {
+     "text": "That",
+     "start": 19.688,
+     "end": 19.863
+    },
+    {
+     "text": "would",
+     "start": 19.913,
+     "end": 20.038
+    },
+    {
+     "text": "leave",
+     "start": 20.088,
+     "end": 20.363
+    },
+    {
+     "text": "one",
+     "start": 20.438,
+     "end": 20.713
+    },
+    {
+     "text": "giant",
+     "start": 20.788,
+     "end": 21.138
+    },
+    {
+     "text": "continent,",
+     "start": 21.188,
+     "end": 21.938
+    },
+    {
+     "text": "wrapped",
+     "start": 22.113,
+     "end": 22.388
+    },
+    {
+     "text": "around",
+     "start": 22.438,
+     "end": 22.713
+    },
+    {
+     "text": "the",
+     "start": 22.738,
+     "end": 22.788
+    },
+    {
+     "text": "middle",
+     "start": 22.838,
+     "end": 23.038
+    },
+    {
+     "text": "of",
+     "start": 23.063,
+     "end": 23.138
+    },
+    {
+     "text": "the",
+     "start": 23.138,
+     "end": 23.188
+    },
+    {
+     "text": "planet.",
+     "start": 23.238,
+     "end": 23.661
+    }
+   ],
+   "start": 19.429,
+   "end": 23.991,
+   "labelAt": 19.579
+  },
+  {
+   "id": "storms",
+   "audioStart": 24.191,
+   "audioEnd": 30.559,
+   "words": [
+    {
+     "text": "And",
+     "start": 24.318,
+     "end": 24.393
+    },
+    {
+     "text": "the",
+     "start": 24.418,
+     "end": 24.468
+    },
+    {
+     "text": "weather",
+     "start": 24.518,
+     "end": 24.768
+    },
+    {
+     "text": "would",
+     "start": 24.818,
+     "end": 24.918
+    },
+    {
+     "text": "totally",
+     "start": 24.993,
+     "end": 25.368
+    },
+    {
+     "text": "change.",
+     "start": 25.418,
+     "end": 26.218
+    },
+    {
+     "text": "Hurricanes",
+     "start": 26.393,
+     "end": 26.968
+    },
+    {
+     "text": "couldn't",
+     "start": 27.018,
+     "end": 27.193
+    },
+    {
+     "text": "form,",
+     "start": 27.268,
+     "end": 27.668
+    },
+    {
+     "text": "because",
+     "start": 27.828,
+     "end": 28.153
+    },
+    {
+     "text": "Earth's",
+     "start": 28.253,
+     "end": 28.553
+    },
+    {
+     "text": "spin",
+     "start": 28.628,
+     "end": 28.978
+    },
+    {
+     "text": "is",
+     "start": 29.028,
+     "end": 29.128
+    },
+    {
+     "text": "what",
+     "start": 29.178,
+     "end": 29.303
+    },
+    {
+     "text": "makes",
+     "start": 29.353,
+     "end": 29.578
+    },
+    {
+     "text": "them",
+     "start": 29.603,
+     "end": 29.753
+    },
+    {
+     "text": "swirl.",
+     "start": 29.853,
+     "end": 30.339
+    }
+   ],
+   "start": 23.991,
+   "end": 30.709,
+   "labelAt": 24.141
+  },
+  {
+   "id": "outro",
+   "audioStart": 30.909,
+   "audioEnd": 34.507,
+   "words": [
+    {
+     "text": "So,",
+     "start": 31.014,
+     "end": 31.189
+    },
+    {
+     "text": "keep",
+     "start": 31.374,
+     "end": 31.549
+    },
+    {
+     "text": "spinning,",
+     "start": 31.599,
+     "end": 31.999
+    },
+    {
+     "text": "Earth!",
+     "start": 32.074,
+     "end": 32.524
+    },
+    {
+     "text": "Subscribe",
+     "start": 32.699,
+     "end": 33.274
+    },
+    {
+     "text": "for",
+     "start": 33.324,
+     "end": 33.424
+    },
+    {
+     "text": "more",
+     "start": 33.474,
+     "end": 33.649
+    },
+    {
+     "text": "what-ifs.",
+     "start": 33.699,
+     "end": 34.347
+    }
+   ],
+   "start": 30.709,
+   "end": 36.107,
+   "labelAt": 30.859
+  }
+ ]
+}

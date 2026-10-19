@@ -1,0 +1,646 @@
+{
+ "id": "sun",
+ "duration": 43.165,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 2.865,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.234,
+     "end": 0.359
+    },
+    {
+     "text": "would",
+     "start": 0.384,
+     "end": 0.459
+    },
+    {
+     "text": "happen",
+     "start": 0.509,
+     "end": 0.809
+    },
+    {
+     "text": "if",
+     "start": 0.859,
+     "end": 0.959
+    },
+    {
+     "text": "the",
+     "start": 0.984,
+     "end": 1.059
+    },
+    {
+     "text": "Sun",
+     "start": 1.134,
+     "end": 1.434
+    },
+    {
+     "text": "suddenly",
+     "start": 1.559,
+     "end": 1.909
+    },
+    {
+     "text": "disappeared?",
+     "start": 1.959,
+     "end": 2.625
+    }
+   ],
+   "start": 0.0,
+   "end": 3.115,
+   "labelAt": 0.15
+  },
+  {
+   "id": "delay",
+   "audioStart": 3.315,
+   "audioEnd": 8.297,
+   "words": [
+    {
+     "text": "For",
+     "start": 3.416,
+     "end": 3.516
+    },
+    {
+     "text": "about",
+     "start": 3.541,
+     "end": 3.766
+    },
+    {
+     "text": "eight",
+     "start": 3.841,
+     "end": 4.041
+    },
+    {
+     "text": "minutes,",
+     "start": 4.091,
+     "end": 4.466
+    },
+    {
+     "text": "nothing",
+     "start": 4.681,
+     "end": 4.981
+    },
+    {
+     "text": "at",
+     "start": 5.031,
+     "end": 5.081
+    },
+    {
+     "text": "all!",
+     "start": 5.131,
+     "end": 5.656
+    },
+    {
+     "text": "That's",
+     "start": 5.781,
+     "end": 5.981
+    },
+    {
+     "text": "how",
+     "start": 6.031,
+     "end": 6.206
+    },
+    {
+     "text": "long",
+     "start": 6.281,
+     "end": 6.556
+    },
+    {
+     "text": "sunlight",
+     "start": 6.656,
+     "end": 7.056
+    },
+    {
+     "text": "takes",
+     "start": 7.106,
+     "end": 7.356
+    },
+    {
+     "text": "to",
+     "start": 7.406,
+     "end": 7.481
+    },
+    {
+     "text": "reach",
+     "start": 7.531,
+     "end": 7.781
+    },
+    {
+     "text": "us.",
+     "start": 7.806,
+     "end": 8.077
+    }
+   ],
+   "start": 3.115,
+   "end": 8.447,
+   "labelAt": 3.265
+  },
+  {
+   "id": "dark",
+   "audioStart": 8.647,
+   "audioEnd": 14.925,
+   "words": [
+    {
+     "text": "Then,",
+     "start": 8.73,
+     "end": 8.93
+    },
+    {
+     "text": "the",
+     "start": 8.98,
+     "end": 9.03
+    },
+    {
+     "text": "sky",
+     "start": 9.105,
+     "end": 9.48
+    },
+    {
+     "text": "would",
+     "start": 9.53,
+     "end": 9.605
+    },
+    {
+     "text": "go",
+     "start": 9.655,
+     "end": 9.83
+    },
+    {
+     "text": "black.",
+     "start": 9.905,
+     "end": 10.58
+    },
+    {
+     "text": "Even",
+     "start": 10.755,
+     "end": 11.005
+    },
+    {
+     "text": "the",
+     "start": 11.03,
+     "end": 11.105
+    },
+    {
+     "text": "Moon",
+     "start": 11.18,
+     "end": 11.48
+    },
+    {
+     "text": "would",
+     "start": 11.505,
+     "end": 11.605
+    },
+    {
+     "text": "vanish,",
+     "start": 11.68,
+     "end": 12.155
+    },
+    {
+     "text": "because",
+     "start": 12.265,
+     "end": 12.54
+    },
+    {
+     "text": "moonlight",
+     "start": 12.64,
+     "end": 13.165
+    },
+    {
+     "text": "is",
+     "start": 13.215,
+     "end": 13.315
+    },
+    {
+     "text": "just",
+     "start": 13.365,
+     "end": 13.59
+    },
+    {
+     "text": "reflected",
+     "start": 13.64,
+     "end": 14.165
+    },
+    {
+     "text": "sunlight.",
+     "start": 14.24,
+     "end": 14.765
+    }
+   ],
+   "start": 8.447,
+   "end": 15.075,
+   "labelAt": 8.597
+  },
+  {
+   "id": "plants",
+   "audioStart": 15.275,
+   "audioEnd": 18.813,
+   "words": [
+    {
+     "text": "Plants",
+     "start": 15.33,
+     "end": 15.655
+    },
+    {
+     "text": "would",
+     "start": 15.68,
+     "end": 15.78
+    },
+    {
+     "text": "stop",
+     "start": 15.83,
+     "end": 16.13
+    },
+    {
+     "text": "making",
+     "start": 16.155,
+     "end": 16.43
+    },
+    {
+     "text": "food,",
+     "start": 16.53,
+     "end": 17.08
+    },
+    {
+     "text": "and",
+     "start": 17.205,
+     "end": 17.28
+    },
+    {
+     "text": "slowly",
+     "start": 17.38,
+     "end": 17.78
+    },
+    {
+     "text": "start",
+     "start": 17.83,
+     "end": 18.055
+    },
+    {
+     "text": "to",
+     "start": 18.105,
+     "end": 18.18
+    },
+    {
+     "text": "die.",
+     "start": 18.23,
+     "end": 18.603
+    }
+   ],
+   "start": 15.075,
+   "end": 18.963,
+   "labelAt": 15.225
+  },
+  {
+   "id": "drift",
+   "audioStart": 19.163,
+   "audioEnd": 24.108,
+   "words": [
+    {
+     "text": "Without",
+     "start": 19.222,
+     "end": 19.472
+    },
+    {
+     "text": "the",
+     "start": 19.497,
+     "end": 19.547
+    },
+    {
+     "text": "Sun's",
+     "start": 19.622,
+     "end": 19.922
+    },
+    {
+     "text": "pull,",
+     "start": 19.997,
+     "end": 20.497
+    },
+    {
+     "text": "Earth",
+     "start": 20.672,
+     "end": 20.947
+    },
+    {
+     "text": "would",
+     "start": 20.972,
+     "end": 21.072
+    },
+    {
+     "text": "fly",
+     "start": 21.147,
+     "end": 21.422
+    },
+    {
+     "text": "off",
+     "start": 21.472,
+     "end": 21.647
+    },
+    {
+     "text": "in",
+     "start": 21.672,
+     "end": 21.772
+    },
+    {
+     "text": "a",
+     "start": 21.822,
+     "end": 21.922
+    },
+    {
+     "text": "straight",
+     "start": 21.922,
+     "end": 22.147
+    },
+    {
+     "text": "line,",
+     "start": 22.197,
+     "end": 22.672
+    },
+    {
+     "text": "into",
+     "start": 22.772,
+     "end": 22.972
+    },
+    {
+     "text": "deep",
+     "start": 23.047,
+     "end": 23.272
+    },
+    {
+     "text": "space.",
+     "start": 23.347,
+     "end": 23.878
+    }
+   ],
+   "start": 18.963,
+   "end": 24.258,
+   "labelAt": 19.113
+  },
+  {
+   "id": "cold",
+   "audioStart": 24.458,
+   "audioEnd": 32.627,
+   "words": [
+    {
+     "text": "But",
+     "start": 24.513,
+     "end": 24.613
+    },
+    {
+     "text": "the",
+     "start": 24.638,
+     "end": 24.713
+    },
+    {
+     "text": "biggest",
+     "start": 24.788,
+     "end": 25.113
+    },
+    {
+     "text": "change",
+     "start": 25.163,
+     "end": 25.588
+    },
+    {
+     "text": "would",
+     "start": 25.638,
+     "end": 25.713
+    },
+    {
+     "text": "be",
+     "start": 25.763,
+     "end": 25.838
+    },
+    {
+     "text": "the",
+     "start": 25.863,
+     "end": 25.938
+    },
+    {
+     "text": "cold.",
+     "start": 26.013,
+     "end": 26.763
+    },
+    {
+     "text": "In",
+     "start": 26.938,
+     "end": 27.113
+    },
+    {
+     "text": "a",
+     "start": 27.188,
+     "end": 27.313
+    },
+    {
+     "text": "week,",
+     "start": 27.313,
+     "end": 27.713
+    },
+    {
+     "text": "it",
+     "start": 27.838,
+     "end": 27.888
+    },
+    {
+     "text": "would",
+     "start": 27.913,
+     "end": 27.988
+    },
+    {
+     "text": "be",
+     "start": 28.038,
+     "end": 28.163
+    },
+    {
+     "text": "colder",
+     "start": 28.238,
+     "end": 28.663
+    },
+    {
+     "text": "than",
+     "start": 28.713,
+     "end": 28.863
+    },
+    {
+     "text": "any",
+     "start": 28.913,
+     "end": 29.088
+    },
+    {
+     "text": "winter.",
+     "start": 29.163,
+     "end": 29.813
+    },
+    {
+     "text": "Within",
+     "start": 30.013,
+     "end": 30.163
+    },
+    {
+     "text": "a",
+     "start": 30.163,
+     "end": 30.213
+    },
+    {
+     "text": "year,",
+     "start": 30.263,
+     "end": 30.663
+    },
+    {
+     "text": "the",
+     "start": 30.823,
+     "end": 30.923
+    },
+    {
+     "text": "oceans",
+     "start": 30.998,
+     "end": 31.423
+    },
+    {
+     "text": "would",
+     "start": 31.473,
+     "end": 31.598
+    },
+    {
+     "text": "freeze",
+     "start": 31.673,
+     "end": 31.948
+    },
+    {
+     "text": "over.",
+     "start": 31.998,
+     "end": 32.397
+    }
+   ],
+   "start": 24.258,
+   "end": 32.777,
+   "labelAt": 24.408
+  },
+  {
+   "id": "vents",
+   "audioStart": 32.977,
+   "audioEnd": 38.06,
+   "words": [
+    {
+     "text": "Still,",
+     "start": 33.079,
+     "end": 33.379
+    },
+    {
+     "text": "deep",
+     "start": 33.454,
+     "end": 33.629
+    },
+    {
+     "text": "under",
+     "start": 33.654,
+     "end": 33.829
+    },
+    {
+     "text": "the",
+     "start": 33.854,
+     "end": 33.954
+    },
+    {
+     "text": "ice,",
+     "start": 34.004,
+     "end": 34.579
+    },
+    {
+     "text": "tiny",
+     "start": 34.754,
+     "end": 35.079
+    },
+    {
+     "text": "life",
+     "start": 35.129,
+     "end": 35.404
+    },
+    {
+     "text": "could",
+     "start": 35.454,
+     "end": 35.554
+    },
+    {
+     "text": "survive",
+     "start": 35.604,
+     "end": 36.079
+    },
+    {
+     "text": "near",
+     "start": 36.129,
+     "end": 36.329
+    },
+    {
+     "text": "warm",
+     "start": 36.429,
+     "end": 36.754
+    },
+    {
+     "text": "volcanic",
+     "start": 36.804,
+     "end": 37.379
+    },
+    {
+     "text": "vents.",
+     "start": 37.429,
+     "end": 37.82
+    }
+   ],
+   "start": 32.777,
+   "end": 38.21,
+   "labelAt": 32.927
+  },
+  {
+   "id": "outro",
+   "audioStart": 38.41,
+   "audioEnd": 41.565,
+   "words": [
+    {
+     "text": "So,",
+     "start": 38.515,
+     "end": 38.69
+    },
+    {
+     "text": "thank",
+     "start": 38.765,
+     "end": 38.965
+    },
+    {
+     "text": "you,",
+     "start": 39.015,
+     "end": 39.09
+    },
+    {
+     "text": "Sun!",
+     "start": 39.165,
+     "end": 39.59
+    },
+    {
+     "text": "Subscribe",
+     "start": 39.785,
+     "end": 40.36
+    },
+    {
+     "text": "for",
+     "start": 40.41,
+     "end": 40.51
+    },
+    {
+     "text": "more",
+     "start": 40.56,
+     "end": 40.735
+    },
+    {
+     "text": "what-ifs.",
+     "start": 40.785,
+     "end": 41.395
+    }
+   ],
+   "start": 38.21,
+   "end": 43.165,
+   "labelAt": 38.36
+  }
+ ]
+}

@@ -1,0 +1,521 @@
+{
+ "id": "bees",
+ "duration": 36.593,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 3.25,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.276,
+     "end": 0.401
+    },
+    {
+     "text": "would",
+     "start": 0.426,
+     "end": 0.501
+    },
+    {
+     "text": "happen",
+     "start": 0.551,
+     "end": 0.851
+    },
+    {
+     "text": "if",
+     "start": 0.901,
+     "end": 1.001
+    },
+    {
+     "text": "all",
+     "start": 1.051,
+     "end": 1.226
+    },
+    {
+     "text": "the",
+     "start": 1.251,
+     "end": 1.326
+    },
+    {
+     "text": "bees",
+     "start": 1.401,
+     "end": 1.851
+    },
+    {
+     "text": "suddenly",
+     "start": 1.976,
+     "end": 2.301
+    },
+    {
+     "text": "disappeared?",
+     "start": 2.351,
+     "end": 3.03
+    }
+   ],
+   "start": 0.0,
+   "end": 3.5,
+   "labelAt": 0.15
+  },
+  {
+   "id": "pollen",
+   "audioStart": 3.7,
+   "audioEnd": 9.785,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.805,
+     "end": 4.255
+    },
+    {
+     "text": "lots",
+     "start": 4.385,
+     "end": 4.635
+    },
+    {
+     "text": "of",
+     "start": 4.66,
+     "end": 4.71
+    },
+    {
+     "text": "flowers",
+     "start": 4.785,
+     "end": 5.235
+    },
+    {
+     "text": "would",
+     "start": 5.285,
+     "end": 5.385
+    },
+    {
+     "text": "stop",
+     "start": 5.435,
+     "end": 5.735
+    },
+    {
+     "text": "making",
+     "start": 5.76,
+     "end": 6.035
+    },
+    {
+     "text": "seeds.",
+     "start": 6.135,
+     "end": 6.885
+    },
+    {
+     "text": "Bees",
+     "start": 7.085,
+     "end": 7.41
+    },
+    {
+     "text": "carry",
+     "start": 7.46,
+     "end": 7.71
+    },
+    {
+     "text": "pollen",
+     "start": 7.785,
+     "end": 8.21
+    },
+    {
+     "text": "from",
+     "start": 8.26,
+     "end": 8.41
+    },
+    {
+     "text": "flower",
+     "start": 8.51,
+     "end": 8.885
+    },
+    {
+     "text": "to",
+     "start": 8.935,
+     "end": 9.01
+    },
+    {
+     "text": "flower.",
+     "start": 9.085,
+     "end": 9.575
+    }
+   ],
+   "start": 3.5,
+   "end": 9.935,
+   "labelAt": 3.65
+  },
+  {
+   "id": "food",
+   "audioStart": 10.135,
+   "audioEnd": 15.207,
+   "words": [
+    {
+     "text": "Apples,",
+     "start": 10.283,
+     "end": 10.708
+    },
+    {
+     "text": "almonds",
+     "start": 10.858,
+     "end": 11.258
+    },
+    {
+     "text": "and",
+     "start": 11.283,
+     "end": 11.358
+    },
+    {
+     "text": "blueberries",
+     "start": 11.408,
+     "end": 11.958
+    },
+    {
+     "text": "would",
+     "start": 11.983,
+     "end": 12.058
+    },
+    {
+     "text": "become",
+     "start": 12.083,
+     "end": 12.383
+    },
+    {
+     "text": "rare",
+     "start": 12.483,
+     "end": 12.808
+    },
+    {
+     "text": "and",
+     "start": 12.858,
+     "end": 12.933
+    },
+    {
+     "text": "expensive.",
+     "start": 12.958,
+     "end": 13.933
+    },
+    {
+     "text": "And",
+     "start": 14.083,
+     "end": 14.158
+    },
+    {
+     "text": "no",
+     "start": 14.208,
+     "end": 14.408
+    },
+    {
+     "text": "more",
+     "start": 14.408,
+     "end": 14.633
+    },
+    {
+     "text": "honey!",
+     "start": 14.683,
+     "end": 15.007
+    }
+   ],
+   "start": 9.935,
+   "end": 15.357,
+   "labelAt": 10.085
+  },
+  {
+   "id": "hand",
+   "audioStart": 15.557,
+   "audioEnd": 19.661,
+   "words": [
+    {
+     "text": "Farmers",
+     "start": 15.683,
+     "end": 16.108
+    },
+    {
+     "text": "would",
+     "start": 16.158,
+     "end": 16.258
+    },
+    {
+     "text": "have",
+     "start": 16.258,
+     "end": 16.433
+    },
+    {
+     "text": "to",
+     "start": 16.433,
+     "end": 16.533
+    },
+    {
+     "text": "pollinate",
+     "start": 16.583,
+     "end": 17.058
+    },
+    {
+     "text": "by",
+     "start": 17.108,
+     "end": 17.258
+    },
+    {
+     "text": "hand,",
+     "start": 17.308,
+     "end": 17.883
+    },
+    {
+     "text": "one",
+     "start": 18.058,
+     "end": 18.258
+    },
+    {
+     "text": "flower",
+     "start": 18.358,
+     "end": 18.758
+    },
+    {
+     "text": "at",
+     "start": 18.808,
+     "end": 18.883
+    },
+    {
+     "text": "a",
+     "start": 18.883,
+     "end": 18.933
+    },
+    {
+     "text": "time.",
+     "start": 19.008,
+     "end": 19.461
+    }
+   ],
+   "start": 15.357,
+   "end": 19.811,
+   "labelAt": 15.507
+  },
+  {
+   "id": "animals",
+   "audioStart": 20.011,
+   "audioEnd": 23.677,
+   "words": [
+    {
+     "text": "Animals",
+     "start": 20.158,
+     "end": 20.583
+    },
+    {
+     "text": "that",
+     "start": 20.633,
+     "end": 20.733
+    },
+    {
+     "text": "eat",
+     "start": 20.783,
+     "end": 20.933
+    },
+    {
+     "text": "those",
+     "start": 20.983,
+     "end": 21.183
+    },
+    {
+     "text": "fruits",
+     "start": 21.258,
+     "end": 21.683
+    },
+    {
+     "text": "and",
+     "start": 21.733,
+     "end": 21.808
+    },
+    {
+     "text": "seeds",
+     "start": 21.908,
+     "end": 22.333
+    },
+    {
+     "text": "would",
+     "start": 22.383,
+     "end": 22.458
+    },
+    {
+     "text": "go",
+     "start": 22.508,
+     "end": 22.658
+    },
+    {
+     "text": "hungry",
+     "start": 22.708,
+     "end": 23.058
+    },
+    {
+     "text": "too.",
+     "start": 23.133,
+     "end": 23.467
+    }
+   ],
+   "start": 19.811,
+   "end": 23.827,
+   "labelAt": 19.961
+  },
+  {
+   "id": "grains",
+   "audioStart": 24.027,
+   "audioEnd": 28.856,
+   "words": [
+    {
+     "text": "But",
+     "start": 24.06,
+     "end": 24.16
+    },
+    {
+     "text": "we",
+     "start": 24.185,
+     "end": 24.26
+    },
+    {
+     "text": "wouldn't",
+     "start": 24.31,
+     "end": 24.485
+    },
+    {
+     "text": "starve.",
+     "start": 24.56,
+     "end": 25.285
+    },
+    {
+     "text": "Wheat,",
+     "start": 25.485,
+     "end": 25.985
+    },
+    {
+     "text": "rice",
+     "start": 26.16,
+     "end": 26.51
+    },
+    {
+     "text": "and",
+     "start": 26.56,
+     "end": 26.635
+    },
+    {
+     "text": "corn",
+     "start": 26.71,
+     "end": 27.06
+    },
+    {
+     "text": "are",
+     "start": 27.085,
+     "end": 27.16
+    },
+    {
+     "text": "pollinated",
+     "start": 27.235,
+     "end": 27.86
+    },
+    {
+     "text": "by",
+     "start": 27.91,
+     "end": 28.035
+    },
+    {
+     "text": "the",
+     "start": 28.06,
+     "end": 28.135
+    },
+    {
+     "text": "wind.",
+     "start": 28.21,
+     "end": 28.656
+    }
+   ],
+   "start": 23.827,
+   "end": 29.006,
+   "labelAt": 23.977
+  },
+  {
+   "id": "outro",
+   "audioStart": 29.206,
+   "audioEnd": 34.993,
+   "words": [
+    {
+     "text": "Still,",
+     "start": 29.311,
+     "end": 29.511
+    },
+    {
+     "text": "our",
+     "start": 29.561,
+     "end": 29.661
+    },
+    {
+     "text": "meals",
+     "start": 29.711,
+     "end": 30.011
+    },
+    {
+     "text": "would",
+     "start": 30.061,
+     "end": 30.136
+    },
+    {
+     "text": "be",
+     "start": 30.186,
+     "end": 30.261
+    },
+    {
+     "text": "way",
+     "start": 30.311,
+     "end": 30.486
+    },
+    {
+     "text": "more",
+     "start": 30.536,
+     "end": 30.711
+    },
+    {
+     "text": "boring.",
+     "start": 30.786,
+     "end": 31.461
+    },
+    {
+     "text": "So,",
+     "start": 31.611,
+     "end": 31.836
+    },
+    {
+     "text": "thank",
+     "start": 31.961,
+     "end": 32.161
+    },
+    {
+     "text": "you,",
+     "start": 32.211,
+     "end": 32.286
+    },
+    {
+     "text": "bees!",
+     "start": 32.361,
+     "end": 32.961
+    },
+    {
+     "text": "Subscribe",
+     "start": 33.146,
+     "end": 33.771
+    },
+    {
+     "text": "for",
+     "start": 33.821,
+     "end": 33.921
+    },
+    {
+     "text": "more",
+     "start": 33.971,
+     "end": 34.146
+    },
+    {
+     "text": "what-ifs.",
+     "start": 34.196,
+     "end": 34.763
+    }
+   ],
+   "start": 29.006,
+   "end": 36.593,
+   "labelAt": 29.156
+  }
+ ]
+}
