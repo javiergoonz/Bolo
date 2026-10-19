@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
-# Render every video to out/NN-<slug>.mp4
+# Render every video to videos/NN-<slug>.mp4
 set -euo pipefail
 cd "$(dirname "$0")/.."
-mkdir -p out
+mkdir -p videos
 i=0
 while read -r comp slug; do
   i=$((i + 1))
   name=$(printf "%02d-%s.mp4" "$i" "$slug")
-  echo "== $comp -> out/$name"
-  npx remotion render "$comp" "out/$name" --log=error --concurrency=4
+  echo "== $comp -> videos/$name"
+  npx remotion render "$comp" "videos/$name" --log=error --concurrency=4
 done <<'LIST'
 WhatIfSun what-if-the-sun-disappeared
 WhatIfEarthStoppedSpinning what-if-earth-stopped-spinning

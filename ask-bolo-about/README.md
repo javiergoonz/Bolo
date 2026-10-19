@@ -21,6 +21,7 @@ activa en amarillo; voz en off; música de fondo; y cierre con
 
 ## Estructura
 
+- `videos/`: los 10 MP4 terminados.
 - `src/videos/scripts.json`: guiones (texto narrado por escena, título y etiquetas).
 - `src/videos/<id>.tsx`: las escenas animadas de cada vídeo.
 - `src/videos/timings/<id>.json`: tiempos por palabra (generados).
@@ -35,7 +36,7 @@ activa en amarillo; voz en off; música de fondo; y cierre con
 ```console
 npm i
 npm run dev                  # previsualizar en Remotion Studio
-./tools/render_all.sh        # renderizar los 10 MP4 en out/
+./tools/render_all.sh        # renderizar los 10 MP4 en videos/
 ```
 
 ## Cambiar un guion o la voz
