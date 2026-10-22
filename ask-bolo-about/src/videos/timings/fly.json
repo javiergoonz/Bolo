@@ -1,0 +1,401 @@
+{
+ "id": "fly",
+ "duration": 25.659,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 2.303,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.23,
+     "end": 0.355
+    },
+    {
+     "text": "would",
+     "start": 0.38,
+     "end": 0.455
+    },
+    {
+     "text": "happen",
+     "start": 0.505,
+     "end": 0.83
+    },
+    {
+     "text": "if",
+     "start": 0.88,
+     "end": 0.98
+    },
+    {
+     "text": "humans",
+     "start": 1.03,
+     "end": 1.405
+    },
+    {
+     "text": "could",
+     "start": 1.455,
+     "end": 1.58
+    },
+    {
+     "text": "fly?",
+     "start": 1.655,
+     "end": 2.283
+    }
+   ],
+   "start": 0.0,
+   "end": 2.553,
+   "labelAt": 0.15
+  },
+  {
+   "id": "roads",
+   "audioStart": 2.753,
+   "audioEnd": 7.319,
+   "words": [
+    {
+     "text": "First,",
+     "start": 2.88,
+     "end": 3.28
+    },
+    {
+     "text": "roads",
+     "start": 3.49,
+     "end": 3.815
+    },
+    {
+     "text": "would",
+     "start": 3.84,
+     "end": 3.915
+    },
+    {
+     "text": "be",
+     "start": 3.94,
+     "end": 4.015
+    },
+    {
+     "text": "almost",
+     "start": 4.065,
+     "end": 4.44
+    },
+    {
+     "text": "empty.",
+     "start": 4.515,
+     "end": 5.165
+    },
+    {
+     "text": "Everyone",
+     "start": 5.34,
+     "end": 5.765
+    },
+    {
+     "text": "would",
+     "start": 5.79,
+     "end": 5.865
+    },
+    {
+     "text": "just",
+     "start": 5.915,
+     "end": 6.115
+    },
+    {
+     "text": "fly",
+     "start": 6.19,
+     "end": 6.465
+    },
+    {
+     "text": "to",
+     "start": 6.49,
+     "end": 6.565
+    },
+    {
+     "text": "school!",
+     "start": 6.64,
+     "end": 7.109
+    }
+   ],
+   "start": 2.553,
+   "end": 7.469,
+   "labelAt": 2.703
+  },
+  {
+   "id": "traffic",
+   "audioStart": 7.669,
+   "audioEnd": 11.963,
+   "words": [
+    {
+     "text": "But",
+     "start": 7.724,
+     "end": 7.824
+    },
+    {
+     "text": "the",
+     "start": 7.849,
+     "end": 7.899
+    },
+    {
+     "text": "sky",
+     "start": 7.974,
+     "end": 8.349
+    },
+    {
+     "text": "would",
+     "start": 8.374,
+     "end": 8.449
+    },
+    {
+     "text": "get",
+     "start": 8.499,
+     "end": 8.649
+    },
+    {
+     "text": "crowded,",
+     "start": 8.724,
+     "end": 9.399
+    },
+    {
+     "text": "so",
+     "start": 9.549,
+     "end": 9.674
+    },
+    {
+     "text": "we'd",
+     "start": 9.724,
+     "end": 9.849
+    },
+    {
+     "text": "need",
+     "start": 9.899,
+     "end": 10.124
+    },
+    {
+     "text": "traffic",
+     "start": 10.199,
+     "end": 10.574
+    },
+    {
+     "text": "lights",
+     "start": 10.624,
+     "end": 10.899
+    },
+    {
+     "text": "in",
+     "start": 10.949,
+     "end": 11.049
+    },
+    {
+     "text": "the",
+     "start": 11.049,
+     "end": 11.099
+    },
+    {
+     "text": "clouds.",
+     "start": 11.149,
+     "end": 11.743
+    }
+   ],
+   "start": 7.469,
+   "end": 12.113,
+   "labelAt": 7.619
+  },
+  {
+   "id": "cold",
+   "audioStart": 12.313,
+   "audioEnd": 15.939,
+   "words": [
+    {
+     "text": "Flying",
+     "start": 12.418,
+     "end": 12.818
+    },
+    {
+     "text": "high",
+     "start": 12.868,
+     "end": 13.168
+    },
+    {
+     "text": "would",
+     "start": 13.193,
+     "end": 13.268
+    },
+    {
+     "text": "be",
+     "start": 13.293,
+     "end": 13.368
+    },
+    {
+     "text": "freezing,",
+     "start": 13.443,
+     "end": 14.143
+    },
+    {
+     "text": "and",
+     "start": 14.268,
+     "end": 14.343
+    },
+    {
+     "text": "the",
+     "start": 14.368,
+     "end": 14.443
+    },
+    {
+     "text": "air",
+     "start": 14.518,
+     "end": 14.718
+    },
+    {
+     "text": "gets",
+     "start": 14.768,
+     "end": 14.993
+    },
+    {
+     "text": "thin",
+     "start": 15.068,
+     "end": 15.218
+    },
+    {
+     "text": "up",
+     "start": 15.243,
+     "end": 15.393
+    },
+    {
+     "text": "there.",
+     "start": 15.443,
+     "end": 15.769
+    }
+   ],
+   "start": 12.113,
+   "end": 16.089,
+   "labelAt": 12.263
+  },
+  {
+   "id": "food",
+   "audioStart": 16.289,
+   "audioEnd": 20.075,
+   "words": [
+    {
+     "text": "And",
+     "start": 16.437,
+     "end": 16.512
+    },
+    {
+     "text": "flapping",
+     "start": 16.587,
+     "end": 16.987
+    },
+    {
+     "text": "is",
+     "start": 17.037,
+     "end": 17.137
+    },
+    {
+     "text": "hard",
+     "start": 17.212,
+     "end": 17.512
+    },
+    {
+     "text": "work.",
+     "start": 17.562,
+     "end": 18.087
+    },
+    {
+     "text": "We'd",
+     "start": 18.237,
+     "end": 18.337
+    },
+    {
+     "text": "need",
+     "start": 18.387,
+     "end": 18.537
+    },
+    {
+     "text": "to",
+     "start": 18.562,
+     "end": 18.637
+    },
+    {
+     "text": "eat",
+     "start": 18.712,
+     "end": 18.887
+    },
+    {
+     "text": "way",
+     "start": 18.937,
+     "end": 19.112
+    },
+    {
+     "text": "more",
+     "start": 19.162,
+     "end": 19.337
+    },
+    {
+     "text": "food!",
+     "start": 19.437,
+     "end": 19.895
+    }
+   ],
+   "start": 16.089,
+   "end": 20.225,
+   "labelAt": 16.239
+  },
+  {
+   "id": "outro",
+   "audioStart": 20.425,
+   "audioEnd": 24.059,
+   "words": [
+    {
+     "text": "So,",
+     "start": 20.53,
+     "end": 20.705
+    },
+    {
+     "text": "would",
+     "start": 20.755,
+     "end": 20.83
+    },
+    {
+     "text": "you",
+     "start": 20.88,
+     "end": 20.955
+    },
+    {
+     "text": "fly",
+     "start": 21.03,
+     "end": 21.255
+    },
+    {
+     "text": "to",
+     "start": 21.28,
+     "end": 21.33
+    },
+    {
+     "text": "school?",
+     "start": 21.405,
+     "end": 22.055
+    },
+    {
+     "text": "Subscribe",
+     "start": 22.23,
+     "end": 22.855
+    },
+    {
+     "text": "for",
+     "start": 22.905,
+     "end": 23.005
+    },
+    {
+     "text": "more",
+     "start": 23.055,
+     "end": 23.23
+    },
+    {
+     "text": "what-ifs.",
+     "start": 23.28,
+     "end": 23.859
+    }
+   ],
+   "start": 20.225,
+   "end": 25.659,
+   "labelAt": 20.375
+  }
+ ]
+}

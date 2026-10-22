@@ -19,7 +19,7 @@ const CLOUDS = [
   [70, -45, 22, 6],
 ];
 
-export type EarthVariant = "normal" | "dry" | "frozen" | "hot";
+export type EarthVariant = "normal" | "dry" | "frozen" | "hot" | "mars" | "moon";
 
 type Props = {
   x: number;
@@ -42,6 +42,8 @@ const PALETTE: Record<EarthVariant, { sea: string; land: string; cloud: number; 
   dry: { sea: "#c98b4b", land: "#9a6a3a", cloud: 0, cap: "#e8c79a" },
   frozen: { sea: "#d4ecff", land: "#f6fbff", cloud: 0.5, cap: "#ffffff" },
   hot: { sea: "#3b86c9", land: "#a58c3a", cloud: 0.4, cap: "#ffffff" },
+  mars: { sea: "#d4623a", land: "#a8442a", cloud: 0, cap: "#fbe9e0" },
+  moon: { sea: "#d9d6c8", land: "#bdb9a8", cloud: 0, cap: "#d9d6c8" },
 };
 
 const Rings: React.FC<{ r: number; half: "back" | "front"; opacity: number }> = ({ r, half, opacity }) => {

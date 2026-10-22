@@ -1,0 +1,396 @@
+{
+ "id": "halfg",
+ "duration": 27.491,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 2.71,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.23,
+     "end": 0.355
+    },
+    {
+     "text": "would",
+     "start": 0.38,
+     "end": 0.455
+    },
+    {
+     "text": "happen",
+     "start": 0.505,
+     "end": 0.855
+    },
+    {
+     "text": "if",
+     "start": 0.905,
+     "end": 1.005
+    },
+    {
+     "text": "gravity",
+     "start": 1.055,
+     "end": 1.455
+    },
+    {
+     "text": "was",
+     "start": 1.505,
+     "end": 1.63
+    },
+    {
+     "text": "half",
+     "start": 1.68,
+     "end": 1.905
+    },
+    {
+     "text": "as",
+     "start": 1.93,
+     "end": 1.98
+    },
+    {
+     "text": "strong?",
+     "start": 2.03,
+     "end": 2.71
+    }
+   ],
+   "start": 0.0,
+   "end": 2.96,
+   "labelAt": 0.15
+  },
+  {
+   "id": "jumps",
+   "audioStart": 3.16,
+   "audioEnd": 7.309,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.286,
+     "end": 3.561
+    },
+    {
+     "text": "you",
+     "start": 3.721,
+     "end": 3.796
+    },
+    {
+     "text": "could",
+     "start": 3.846,
+     "end": 3.921
+    },
+    {
+     "text": "jump",
+     "start": 3.971,
+     "end": 4.221
+    },
+    {
+     "text": "twice",
+     "start": 4.271,
+     "end": 4.546
+    },
+    {
+     "text": "as",
+     "start": 4.596,
+     "end": 4.696
+    },
+    {
+     "text": "high!",
+     "start": 4.746,
+     "end": 5.296
+    },
+    {
+     "text": "Basketball",
+     "start": 5.471,
+     "end": 6.171
+    },
+    {
+     "text": "would",
+     "start": 6.196,
+     "end": 6.271
+    },
+    {
+     "text": "get",
+     "start": 6.321,
+     "end": 6.471
+    },
+    {
+     "text": "wild.",
+     "start": 6.546,
+     "end": 7.089
+    }
+   ],
+   "start": 2.96,
+   "end": 7.459,
+   "labelAt": 3.11
+  },
+  {
+   "id": "tall",
+   "audioStart": 7.659,
+   "audioEnd": 11.367,
+   "words": [
+    {
+     "text": "Trees",
+     "start": 7.739,
+     "end": 8.139
+    },
+    {
+     "text": "and",
+     "start": 8.164,
+     "end": 8.239
+    },
+    {
+     "text": "buildings",
+     "start": 8.289,
+     "end": 8.689
+    },
+    {
+     "text": "could",
+     "start": 8.739,
+     "end": 8.814
+    },
+    {
+     "text": "grow",
+     "start": 8.864,
+     "end": 9.064
+    },
+    {
+     "text": "much",
+     "start": 9.114,
+     "end": 9.314
+    },
+    {
+     "text": "taller,",
+     "start": 9.389,
+     "end": 9.989
+    },
+    {
+     "text": "without",
+     "start": 10.139,
+     "end": 10.439
+    },
+    {
+     "text": "collapsing.",
+     "start": 10.489,
+     "end": 11.157
+    }
+   ],
+   "start": 7.459,
+   "end": 11.517,
+   "labelAt": 7.609
+  },
+  {
+   "id": "rain",
+   "audioStart": 11.717,
+   "audioEnd": 16.11,
+   "words": [
+    {
+     "text": "Raindrops",
+     "start": 11.805,
+     "end": 12.38
+    },
+    {
+     "text": "would",
+     "start": 12.405,
+     "end": 12.505
+    },
+    {
+     "text": "fall",
+     "start": 12.58,
+     "end": 12.805
+    },
+    {
+     "text": "more",
+     "start": 12.855,
+     "end": 13.03
+    },
+    {
+     "text": "slowly,",
+     "start": 13.105,
+     "end": 13.83
+    },
+    {
+     "text": "and",
+     "start": 13.98,
+     "end": 14.08
+    },
+    {
+     "text": "ocean",
+     "start": 14.155,
+     "end": 14.505
+    },
+    {
+     "text": "waves",
+     "start": 14.555,
+     "end": 14.955
+    },
+    {
+     "text": "would",
+     "start": 15.005,
+     "end": 15.08
+    },
+    {
+     "text": "grow",
+     "start": 15.13,
+     "end": 15.355
+    },
+    {
+     "text": "taller.",
+     "start": 15.43,
+     "end": 15.92
+    }
+   ],
+   "start": 11.517,
+   "end": 16.26,
+   "labelAt": 11.667
+  },
+  {
+   "id": "air",
+   "audioStart": 16.46,
+   "audioEnd": 22.119,
+   "words": [
+    {
+     "text": "But",
+     "start": 16.494,
+     "end": 16.594
+    },
+    {
+     "text": "over",
+     "start": 16.619,
+     "end": 16.769
+    },
+    {
+     "text": "a",
+     "start": 16.769,
+     "end": 16.819
+    },
+    {
+     "text": "long",
+     "start": 16.869,
+     "end": 17.244
+    },
+    {
+     "text": "time,",
+     "start": 17.294,
+     "end": 17.869
+    },
+    {
+     "text": "Earth",
+     "start": 18.019,
+     "end": 18.294
+    },
+    {
+     "text": "would",
+     "start": 18.319,
+     "end": 18.394
+    },
+    {
+     "text": "hold",
+     "start": 18.444,
+     "end": 18.669
+    },
+    {
+     "text": "its",
+     "start": 18.694,
+     "end": 18.819
+    },
+    {
+     "text": "air",
+     "start": 18.894,
+     "end": 19.094
+    },
+    {
+     "text": "less",
+     "start": 19.144,
+     "end": 19.319
+    },
+    {
+     "text": "tightly,",
+     "start": 19.394,
+     "end": 20.094
+    },
+    {
+     "text": "and",
+     "start": 20.244,
+     "end": 20.319
+    },
+    {
+     "text": "some",
+     "start": 20.394,
+     "end": 20.594
+    },
+    {
+     "text": "would",
+     "start": 20.644,
+     "end": 20.719
+    },
+    {
+     "text": "escape",
+     "start": 20.744,
+     "end": 21.144
+    },
+    {
+     "text": "to",
+     "start": 21.194,
+     "end": 21.269
+    },
+    {
+     "text": "space.",
+     "start": 21.344,
+     "end": 21.879
+    }
+   ],
+   "start": 16.26,
+   "end": 22.269,
+   "labelAt": 16.41
+  },
+  {
+   "id": "outro",
+   "audioStart": 22.469,
+   "audioEnd": 25.891,
+   "words": [
+    {
+     "text": "So,",
+     "start": 22.574,
+     "end": 22.774
+    },
+    {
+     "text": "thank",
+     "start": 22.849,
+     "end": 23.049
+    },
+    {
+     "text": "you,",
+     "start": 23.099,
+     "end": 23.174
+    },
+    {
+     "text": "gravity!",
+     "start": 23.249,
+     "end": 23.949
+    },
+    {
+     "text": "Subscribe",
+     "start": 24.124,
+     "end": 24.699
+    },
+    {
+     "text": "for",
+     "start": 24.749,
+     "end": 24.849
+    },
+    {
+     "text": "more",
+     "start": 24.899,
+     "end": 25.049
+    },
+    {
+     "text": "what-ifs.",
+     "start": 25.099,
+     "end": 25.711
+    }
+   ],
+   "start": 22.269,
+   "end": 27.491,
+   "labelAt": 22.419
+  }
+ ]
+}

@@ -1,0 +1,441 @@
+{
+ "id": "noair",
+ "duration": 28.847,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 2.675,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.255,
+     "end": 0.38
+    },
+    {
+     "text": "would",
+     "start": 0.405,
+     "end": 0.48
+    },
+    {
+     "text": "happen",
+     "start": 0.53,
+     "end": 0.855
+    },
+    {
+     "text": "if",
+     "start": 0.905,
+     "end": 1.005
+    },
+    {
+     "text": "Earth",
+     "start": 1.08,
+     "end": 1.305
+    },
+    {
+     "text": "lost",
+     "start": 1.355,
+     "end": 1.605
+    },
+    {
+     "text": "its",
+     "start": 1.63,
+     "end": 1.755
+    },
+    {
+     "text": "atmosphere?",
+     "start": 1.83,
+     "end": 2.625
+    }
+   ],
+   "start": 0.0,
+   "end": 2.925,
+   "labelAt": 0.15
+  },
+  {
+   "id": "breathe",
+   "audioStart": 3.125,
+   "audioEnd": 6.787,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.251,
+     "end": 3.526
+    },
+    {
+     "text": "we",
+     "start": 3.666,
+     "end": 3.741
+    },
+    {
+     "text": "couldn't",
+     "start": 3.791,
+     "end": 3.966
+    },
+    {
+     "text": "breathe.",
+     "start": 4.016,
+     "end": 4.666
+    },
+    {
+     "text": "Air",
+     "start": 4.866,
+     "end": 5.091
+    },
+    {
+     "text": "is",
+     "start": 5.141,
+     "end": 5.241
+    },
+    {
+     "text": "where",
+     "start": 5.291,
+     "end": 5.391
+    },
+    {
+     "text": "we",
+     "start": 5.441,
+     "end": 5.516
+    },
+    {
+     "text": "get",
+     "start": 5.566,
+     "end": 5.691
+    },
+    {
+     "text": "our",
+     "start": 5.716,
+     "end": 5.841
+    },
+    {
+     "text": "oxygen.",
+     "start": 5.916,
+     "end": 6.607
+    }
+   ],
+   "start": 2.925,
+   "end": 6.937,
+   "labelAt": 3.075
+  },
+  {
+   "id": "sky",
+   "audioStart": 7.137,
+   "audioEnd": 11.366,
+   "words": [
+    {
+     "text": "The",
+     "start": 7.217,
+     "end": 7.292
+    },
+    {
+     "text": "sky",
+     "start": 7.367,
+     "end": 7.742
+    },
+    {
+     "text": "wouldn't",
+     "start": 7.792,
+     "end": 7.967
+    },
+    {
+     "text": "be",
+     "start": 7.992,
+     "end": 8.067
+    },
+    {
+     "text": "blue",
+     "start": 8.142,
+     "end": 8.317
+    },
+    {
+     "text": "anymore.",
+     "start": 8.342,
+     "end": 9.067
+    },
+    {
+     "text": "It",
+     "start": 9.242,
+     "end": 9.292
+    },
+    {
+     "text": "would",
+     "start": 9.317,
+     "end": 9.392
+    },
+    {
+     "text": "be",
+     "start": 9.442,
+     "end": 9.517
+    },
+    {
+     "text": "black,",
+     "start": 9.592,
+     "end": 9.967
+    },
+    {
+     "text": "even",
+     "start": 10.107,
+     "end": 10.382
+    },
+    {
+     "text": "during",
+     "start": 10.432,
+     "end": 10.657
+    },
+    {
+     "text": "the",
+     "start": 10.682,
+     "end": 10.732
+    },
+    {
+     "text": "day!",
+     "start": 10.782,
+     "end": 11.166
+    }
+   ],
+   "start": 6.937,
+   "end": 11.516,
+   "labelAt": 7.087
+  },
+  {
+   "id": "temps",
+   "audioStart": 11.716,
+   "audioEnd": 15.856,
+   "words": [
+    {
+     "text": "Without",
+     "start": 11.775,
+     "end": 12.1
+    },
+    {
+     "text": "air",
+     "start": 12.175,
+     "end": 12.375
+    },
+    {
+     "text": "as",
+     "start": 12.425,
+     "end": 12.55
+    },
+    {
+     "text": "a",
+     "start": 12.6,
+     "end": 12.7
+    },
+    {
+     "text": "blanket,",
+     "start": 12.7,
+     "end": 13.15
+    },
+    {
+     "text": "days",
+     "start": 13.275,
+     "end": 13.575
+    },
+    {
+     "text": "would",
+     "start": 13.625,
+     "end": 13.75
+    },
+    {
+     "text": "bake,",
+     "start": 13.8,
+     "end": 14.225
+    },
+    {
+     "text": "and",
+     "start": 14.395,
+     "end": 14.47
+    },
+    {
+     "text": "nights",
+     "start": 14.545,
+     "end": 14.845
+    },
+    {
+     "text": "would",
+     "start": 14.895,
+     "end": 15.02
+    },
+    {
+     "text": "freeze.",
+     "start": 15.095,
+     "end": 15.626
+    }
+   ],
+   "start": 11.516,
+   "end": 16.006,
+   "labelAt": 11.666
+  },
+  {
+   "id": "boil",
+   "audioStart": 16.206,
+   "audioEnd": 20.033,
+   "words": [
+    {
+     "text": "And",
+     "start": 16.332,
+     "end": 16.407
+    },
+    {
+     "text": "with",
+     "start": 16.432,
+     "end": 16.557
+    },
+    {
+     "text": "no",
+     "start": 16.632,
+     "end": 16.832
+    },
+    {
+     "text": "air",
+     "start": 16.907,
+     "end": 17.057
+    },
+    {
+     "text": "pressure,",
+     "start": 17.107,
+     "end": 17.682
+    },
+    {
+     "text": "the",
+     "start": 17.832,
+     "end": 17.932
+    },
+    {
+     "text": "oceans",
+     "start": 18.007,
+     "end": 18.432
+    },
+    {
+     "text": "would",
+     "start": 18.482,
+     "end": 18.607
+    },
+    {
+     "text": "start",
+     "start": 18.657,
+     "end": 18.882
+    },
+    {
+     "text": "to",
+     "start": 18.932,
+     "end": 19.007
+    },
+    {
+     "text": "boil",
+     "start": 19.057,
+     "end": 19.357
+    },
+    {
+     "text": "away.",
+     "start": 19.407,
+     "end": 19.833
+    }
+   ],
+   "start": 16.006,
+   "end": 20.183,
+   "labelAt": 16.156
+  },
+  {
+   "id": "silence",
+   "audioStart": 20.383,
+   "audioEnd": 23.752,
+   "words": [
+    {
+     "text": "Plus,",
+     "start": 20.438,
+     "end": 20.663
+    },
+    {
+     "text": "no",
+     "start": 20.838,
+     "end": 21.013
+    },
+    {
+     "text": "air",
+     "start": 21.088,
+     "end": 21.263
+    },
+    {
+     "text": "means",
+     "start": 21.313,
+     "end": 21.513
+    },
+    {
+     "text": "no",
+     "start": 21.563,
+     "end": 21.713
+    },
+    {
+     "text": "sound.",
+     "start": 21.788,
+     "end": 22.313
+    },
+    {
+     "text": "Total",
+     "start": 22.488,
+     "end": 22.838
+    },
+    {
+     "text": "silence.",
+     "start": 22.913,
+     "end": 23.512
+    }
+   ],
+   "start": 20.183,
+   "end": 23.902,
+   "labelAt": 20.333
+  },
+  {
+   "id": "outro",
+   "audioStart": 24.102,
+   "audioEnd": 27.247,
+   "words": [
+    {
+     "text": "So,",
+     "start": 24.207,
+     "end": 24.382
+    },
+    {
+     "text": "thank",
+     "start": 24.457,
+     "end": 24.657
+    },
+    {
+     "text": "you,",
+     "start": 24.707,
+     "end": 24.782
+    },
+    {
+     "text": "air!",
+     "start": 24.857,
+     "end": 25.257
+    },
+    {
+     "text": "Subscribe",
+     "start": 25.452,
+     "end": 26.027
+    },
+    {
+     "text": "for",
+     "start": 26.077,
+     "end": 26.177
+    },
+    {
+     "text": "more",
+     "start": 26.227,
+     "end": 26.377
+    },
+    {
+     "text": "what-ifs.",
+     "start": 26.427,
+     "end": 27.087
+    }
+   ],
+   "start": 23.902,
+   "end": 28.847,
+   "labelAt": 24.052
+  }
+ ]
+}

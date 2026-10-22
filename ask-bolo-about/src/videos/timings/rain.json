@@ -1,0 +1,376 @@
+{
+ "id": "rain",
+ "duration": 26.951,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 2.601,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.298,
+     "end": 0.423
+    },
+    {
+     "text": "would",
+     "start": 0.448,
+     "end": 0.523
+    },
+    {
+     "text": "happen",
+     "start": 0.573,
+     "end": 0.948
+    },
+    {
+     "text": "if",
+     "start": 0.998,
+     "end": 1.073
+    },
+    {
+     "text": "it",
+     "start": 1.098,
+     "end": 1.198
+    },
+    {
+     "text": "never",
+     "start": 1.248,
+     "end": 1.473
+    },
+    {
+     "text": "stopped",
+     "start": 1.523,
+     "end": 1.873
+    },
+    {
+     "text": "raining?",
+     "start": 1.948,
+     "end": 2.411
+    }
+   ],
+   "start": 0.0,
+   "end": 2.851,
+   "labelAt": 0.15
+  },
+  {
+   "id": "floods",
+   "audioStart": 3.051,
+   "audioEnd": 7.032,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.156,
+     "end": 3.531
+    },
+    {
+     "text": "rivers",
+     "start": 3.741,
+     "end": 4.066
+    },
+    {
+     "text": "would",
+     "start": 4.091,
+     "end": 4.166
+    },
+    {
+     "text": "overflow,",
+     "start": 4.191,
+     "end": 5.041
+    },
+    {
+     "text": "and",
+     "start": 5.191,
+     "end": 5.266
+    },
+    {
+     "text": "lots",
+     "start": 5.316,
+     "end": 5.591
+    },
+    {
+     "text": "of",
+     "start": 5.616,
+     "end": 5.691
+    },
+    {
+     "text": "towns",
+     "start": 5.766,
+     "end": 6.166
+    },
+    {
+     "text": "would",
+     "start": 6.191,
+     "end": 6.316
+    },
+    {
+     "text": "flood.",
+     "start": 6.391,
+     "end": 6.852
+    }
+   ],
+   "start": 2.851,
+   "end": 7.182,
+   "labelAt": 3.001
+  },
+  {
+   "id": "sun",
+   "audioStart": 7.382,
+   "audioEnd": 11.745,
+   "words": [
+    {
+     "text": "With",
+     "start": 7.441,
+     "end": 7.591
+    },
+    {
+     "text": "clouds",
+     "start": 7.666,
+     "end": 8.116
+    },
+    {
+     "text": "always",
+     "start": 8.166,
+     "end": 8.541
+    },
+    {
+     "text": "covering",
+     "start": 8.591,
+     "end": 8.916
+    },
+    {
+     "text": "the",
+     "start": 8.941,
+     "end": 8.991
+    },
+    {
+     "text": "sky,",
+     "start": 9.041,
+     "end": 9.666
+    },
+    {
+     "text": "plants",
+     "start": 9.841,
+     "end": 10.141
+    },
+    {
+     "text": "would",
+     "start": 10.191,
+     "end": 10.266
+    },
+    {
+     "text": "get",
+     "start": 10.316,
+     "end": 10.466
+    },
+    {
+     "text": "much",
+     "start": 10.516,
+     "end": 10.741
+    },
+    {
+     "text": "less",
+     "start": 10.791,
+     "end": 10.966
+    },
+    {
+     "text": "sunlight.",
+     "start": 11.041,
+     "end": 11.585
+    }
+   ],
+   "start": 7.182,
+   "end": 11.895,
+   "labelAt": 7.332
+  },
+  {
+   "id": "mold",
+   "audioStart": 12.095,
+   "audioEnd": 16.507,
+   "words": [
+    {
+     "text": "Everything",
+     "start": 12.153,
+     "end": 12.628
+    },
+    {
+     "text": "would",
+     "start": 12.678,
+     "end": 12.778
+    },
+    {
+     "text": "stay",
+     "start": 12.828,
+     "end": 13.053
+    },
+    {
+     "text": "damp,",
+     "start": 13.128,
+     "end": 13.678
+    },
+    {
+     "text": "so",
+     "start": 13.853,
+     "end": 13.978
+    },
+    {
+     "text": "mold",
+     "start": 14.053,
+     "end": 14.478
+    },
+    {
+     "text": "and",
+     "start": 14.528,
+     "end": 14.603
+    },
+    {
+     "text": "mushrooms",
+     "start": 14.678,
+     "end": 15.228
+    },
+    {
+     "text": "would",
+     "start": 15.278,
+     "end": 15.378
+    },
+    {
+     "text": "grow",
+     "start": 15.428,
+     "end": 15.653
+    },
+    {
+     "text": "everywhere.",
+     "start": 15.728,
+     "end": 16.297
+    }
+   ],
+   "start": 11.895,
+   "end": 16.657,
+   "labelAt": 12.045
+  },
+  {
+   "id": "frogs",
+   "audioStart": 16.857,
+   "audioEnd": 21.462,
+   "words": [
+    {
+     "text": "Frogs",
+     "start": 16.962,
+     "end": 17.437
+    },
+    {
+     "text": "and",
+     "start": 17.462,
+     "end": 17.537
+    },
+    {
+     "text": "snails",
+     "start": 17.612,
+     "end": 18.062
+    },
+    {
+     "text": "would",
+     "start": 18.112,
+     "end": 18.187
+    },
+    {
+     "text": "be",
+     "start": 18.212,
+     "end": 18.287
+    },
+    {
+     "text": "thrilled!",
+     "start": 18.362,
+     "end": 19.062
+    },
+    {
+     "text": "But",
+     "start": 19.187,
+     "end": 19.312
+    },
+    {
+     "text": "desert",
+     "start": 19.387,
+     "end": 19.737
+    },
+    {
+     "text": "animals",
+     "start": 19.812,
+     "end": 20.237
+    },
+    {
+     "text": "would",
+     "start": 20.287,
+     "end": 20.412
+    },
+    {
+     "text": "really",
+     "start": 20.462,
+     "end": 20.737
+    },
+    {
+     "text": "struggle.",
+     "start": 20.812,
+     "end": 21.252
+    }
+   ],
+   "start": 16.657,
+   "end": 21.612,
+   "labelAt": 16.807
+  },
+  {
+   "id": "outro",
+   "audioStart": 21.812,
+   "audioEnd": 25.351,
+   "words": [
+    {
+     "text": "So,",
+     "start": 21.917,
+     "end": 22.092
+    },
+    {
+     "text": "thank",
+     "start": 22.167,
+     "end": 22.367
+    },
+    {
+     "text": "you,",
+     "start": 22.417,
+     "end": 22.492
+    },
+    {
+     "text": "sunny",
+     "start": 22.567,
+     "end": 22.767
+    },
+    {
+     "text": "days!",
+     "start": 22.817,
+     "end": 23.392
+    },
+    {
+     "text": "Subscribe",
+     "start": 23.567,
+     "end": 24.142
+    },
+    {
+     "text": "for",
+     "start": 24.192,
+     "end": 24.292
+    },
+    {
+     "text": "more",
+     "start": 24.342,
+     "end": 24.517
+    },
+    {
+     "text": "what-ifs.",
+     "start": 24.567,
+     "end": 25.161
+    }
+   ],
+   "start": 21.612,
+   "end": 26.951,
+   "labelAt": 21.762
+  }
+ ]
+}

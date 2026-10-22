@@ -1,0 +1,446 @@
+{
+ "id": "moon",
+ "duration": 31.004,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 2.973,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.23,
+     "end": 0.355
+    },
+    {
+     "text": "would",
+     "start": 0.38,
+     "end": 0.455
+    },
+    {
+     "text": "happen",
+     "start": 0.505,
+     "end": 0.83
+    },
+    {
+     "text": "if",
+     "start": 0.88,
+     "end": 0.98
+    },
+    {
+     "text": "the",
+     "start": 1.005,
+     "end": 1.08
+    },
+    {
+     "text": "Moon",
+     "start": 1.155,
+     "end": 1.405
+    },
+    {
+     "text": "was",
+     "start": 1.43,
+     "end": 1.555
+    },
+    {
+     "text": "twice",
+     "start": 1.63,
+     "end": 2.03
+    },
+    {
+     "text": "as",
+     "start": 2.08,
+     "end": 2.18
+    },
+    {
+     "text": "close?",
+     "start": 2.255,
+     "end": 2.753
+    }
+   ],
+   "start": 0.0,
+   "end": 3.223,
+   "labelAt": 0.15
+  },
+  {
+   "id": "tides",
+   "audioStart": 3.423,
+   "audioEnd": 8.406,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.528,
+     "end": 3.853
+    },
+    {
+     "text": "the",
+     "start": 3.983,
+     "end": 4.033
+    },
+    {
+     "text": "tides",
+     "start": 4.108,
+     "end": 4.483
+    },
+    {
+     "text": "would",
+     "start": 4.508,
+     "end": 4.583
+    },
+    {
+     "text": "get",
+     "start": 4.633,
+     "end": 4.783
+    },
+    {
+     "text": "eight",
+     "start": 4.833,
+     "end": 5.008
+    },
+    {
+     "text": "times",
+     "start": 5.058,
+     "end": 5.358
+    },
+    {
+     "text": "stronger!",
+     "start": 5.408,
+     "end": 6.158
+    },
+    {
+     "text": "Beaches",
+     "start": 6.358,
+     "end": 6.808
+    },
+    {
+     "text": "would",
+     "start": 6.858,
+     "end": 6.983
+    },
+    {
+     "text": "flood",
+     "start": 7.058,
+     "end": 7.333
+    },
+    {
+     "text": "twice",
+     "start": 7.408,
+     "end": 7.608
+    },
+    {
+     "text": "a",
+     "start": 7.608,
+     "end": 7.733
+    },
+    {
+     "text": "day.",
+     "start": 7.783,
+     "end": 8.196
+    }
+   ],
+   "start": 3.223,
+   "end": 8.556,
+   "labelAt": 3.373
+  },
+  {
+   "id": "size",
+   "audioStart": 8.756,
+   "audioEnd": 14.422,
+   "words": [
+    {
+     "text": "The",
+     "start": 8.815,
+     "end": 8.89
+    },
+    {
+     "text": "Moon",
+     "start": 8.94,
+     "end": 9.24
+    },
+    {
+     "text": "would",
+     "start": 9.29,
+     "end": 9.39
+    },
+    {
+     "text": "look",
+     "start": 9.44,
+     "end": 9.59
+    },
+    {
+     "text": "twice",
+     "start": 9.665,
+     "end": 10.04
+    },
+    {
+     "text": "as",
+     "start": 10.09,
+     "end": 10.19
+    },
+    {
+     "text": "wide",
+     "start": 10.265,
+     "end": 10.59
+    },
+    {
+     "text": "in",
+     "start": 10.615,
+     "end": 10.69
+    },
+    {
+     "text": "the",
+     "start": 10.69,
+     "end": 10.74
+    },
+    {
+     "text": "sky,",
+     "start": 10.815,
+     "end": 11.54
+    },
+    {
+     "text": "and",
+     "start": 11.745,
+     "end": 11.82
+    },
+    {
+     "text": "full",
+     "start": 11.92,
+     "end": 12.17
+    },
+    {
+     "text": "moons",
+     "start": 12.245,
+     "end": 12.645
+    },
+    {
+     "text": "would",
+     "start": 12.695,
+     "end": 12.77
+    },
+    {
+     "text": "be",
+     "start": 12.82,
+     "end": 12.92
+    },
+    {
+     "text": "four",
+     "start": 13.02,
+     "end": 13.295
+    },
+    {
+     "text": "times",
+     "start": 13.345,
+     "end": 13.67
+    },
+    {
+     "text": "brighter.",
+     "start": 13.745,
+     "end": 14.212
+    }
+   ],
+   "start": 8.556,
+   "end": 14.572,
+   "labelAt": 8.706
+  },
+  {
+   "id": "eclipse",
+   "audioStart": 14.772,
+   "audioEnd": 19.414,
+   "words": [
+    {
+     "text": "Total",
+     "start": 14.831,
+     "end": 15.156
+    },
+    {
+     "text": "solar",
+     "start": 15.231,
+     "end": 15.556
+    },
+    {
+     "text": "eclipses",
+     "start": 15.606,
+     "end": 16.106
+    },
+    {
+     "text": "would",
+     "start": 16.156,
+     "end": 16.231
+    },
+    {
+     "text": "happen",
+     "start": 16.281,
+     "end": 16.581
+    },
+    {
+     "text": "way",
+     "start": 16.631,
+     "end": 16.806
+    },
+    {
+     "text": "more",
+     "start": 16.856,
+     "end": 17.031
+    },
+    {
+     "text": "often,",
+     "start": 17.106,
+     "end": 17.731
+    },
+    {
+     "text": "and",
+     "start": 17.941,
+     "end": 18.016
+    },
+    {
+     "text": "last",
+     "start": 18.066,
+     "end": 18.416
+    },
+    {
+     "text": "much",
+     "start": 18.466,
+     "end": 18.691
+    },
+    {
+     "text": "longer.",
+     "start": 18.741,
+     "end": 19.184
+    }
+   ],
+   "start": 14.572,
+   "end": 19.564,
+   "labelAt": 14.722
+  },
+  {
+   "id": "quakes",
+   "audioStart": 19.764,
+   "audioEnd": 25.168,
+   "words": [
+    {
+     "text": "The",
+     "start": 19.823,
+     "end": 19.898
+    },
+    {
+     "text": "stronger",
+     "start": 19.948,
+     "end": 20.373
+    },
+    {
+     "text": "pull",
+     "start": 20.448,
+     "end": 20.723
+    },
+    {
+     "text": "would",
+     "start": 20.773,
+     "end": 20.848
+    },
+    {
+     "text": "even",
+     "start": 20.898,
+     "end": 21.148
+    },
+    {
+     "text": "squeeze",
+     "start": 21.223,
+     "end": 21.673
+    },
+    {
+     "text": "the",
+     "start": 21.723,
+     "end": 21.823
+    },
+    {
+     "text": "Earth",
+     "start": 21.898,
+     "end": 22.123
+    },
+    {
+     "text": "itself,",
+     "start": 22.173,
+     "end": 22.923
+    },
+    {
+     "text": "possibly",
+     "start": 23.073,
+     "end": 23.523
+    },
+    {
+     "text": "causing",
+     "start": 23.573,
+     "end": 23.973
+    },
+    {
+     "text": "more",
+     "start": 24.023,
+     "end": 24.198
+    },
+    {
+     "text": "earthquakes.",
+     "start": 24.248,
+     "end": 24.948
+    }
+   ],
+   "start": 19.564,
+   "end": 25.318,
+   "labelAt": 19.714
+  },
+  {
+   "id": "outro",
+   "audioStart": 25.518,
+   "audioEnd": 29.404,
+   "words": [
+    {
+     "text": "So,",
+     "start": 25.623,
+     "end": 25.798
+    },
+    {
+     "text": "keep",
+     "start": 25.973,
+     "end": 26.098
+    },
+    {
+     "text": "your",
+     "start": 26.123,
+     "end": 26.223
+    },
+    {
+     "text": "distance,",
+     "start": 26.273,
+     "end": 26.698
+    },
+    {
+     "text": "Moon!",
+     "start": 26.883,
+     "end": 27.433
+    },
+    {
+     "text": "Subscribe",
+     "start": 27.608,
+     "end": 28.183
+    },
+    {
+     "text": "for",
+     "start": 28.233,
+     "end": 28.333
+    },
+    {
+     "text": "more",
+     "start": 28.383,
+     "end": 28.558
+    },
+    {
+     "text": "what-ifs.",
+     "start": 28.608,
+     "end": 29.184
+    }
+   ],
+   "start": 25.318,
+   "end": 31.004,
+   "labelAt": 25.468
+  }
+ ]
+}

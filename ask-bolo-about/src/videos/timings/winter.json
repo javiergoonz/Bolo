@@ -1,0 +1,351 @@
+{
+ "id": "winter",
+ "duration": 25.33,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 2.497,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.276,
+     "end": 0.401
+    },
+    {
+     "text": "would",
+     "start": 0.426,
+     "end": 0.501
+    },
+    {
+     "text": "happen",
+     "start": 0.551,
+     "end": 0.951
+    },
+    {
+     "text": "if",
+     "start": 1.001,
+     "end": 1.076
+    },
+    {
+     "text": "it",
+     "start": 1.101,
+     "end": 1.151
+    },
+    {
+     "text": "was",
+     "start": 1.176,
+     "end": 1.301
+    },
+    {
+     "text": "always",
+     "start": 1.376,
+     "end": 1.776
+    },
+    {
+     "text": "winter?",
+     "start": 1.851,
+     "end": 2.347
+    }
+   ],
+   "start": 0.0,
+   "end": 2.747,
+   "labelAt": 0.15
+  },
+  {
+   "id": "crops",
+   "audioStart": 2.947,
+   "audioEnd": 7.672,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.052,
+     "end": 3.377
+    },
+    {
+     "text": "most",
+     "start": 3.542,
+     "end": 3.742
+    },
+    {
+     "text": "crops",
+     "start": 3.792,
+     "end": 4.117
+    },
+    {
+     "text": "couldn't",
+     "start": 4.167,
+     "end": 4.342
+    },
+    {
+     "text": "grow.",
+     "start": 4.392,
+     "end": 5.017
+    },
+    {
+     "text": "Farmers",
+     "start": 5.217,
+     "end": 5.667
+    },
+    {
+     "text": "would",
+     "start": 5.717,
+     "end": 5.842
+    },
+    {
+     "text": "need",
+     "start": 5.892,
+     "end": 6.117
+    },
+    {
+     "text": "giant",
+     "start": 6.192,
+     "end": 6.542
+    },
+    {
+     "text": "greenhouses.",
+     "start": 6.592,
+     "end": 7.432
+    }
+   ],
+   "start": 2.747,
+   "end": 7.822,
+   "labelAt": 2.897
+  },
+  {
+   "id": "bears",
+   "audioStart": 8.022,
+   "audioEnd": 11.261,
+   "words": [
+    {
+     "text": "Bears",
+     "start": 8.131,
+     "end": 8.456
+    },
+    {
+     "text": "would",
+     "start": 8.481,
+     "end": 8.556
+    },
+    {
+     "text": "hibernate,",
+     "start": 8.606,
+     "end": 9.131
+    },
+    {
+     "text": "and",
+     "start": 9.181,
+     "end": 9.256
+    },
+    {
+     "text": "wake",
+     "start": 9.306,
+     "end": 9.456
+    },
+    {
+     "text": "up",
+     "start": 9.481,
+     "end": 9.631
+    },
+    {
+     "text": "to...",
+     "start": 9.706,
+     "end": 10.056
+    },
+    {
+     "text": "more",
+     "start": 10.261,
+     "end": 10.486
+    },
+    {
+     "text": "winter!",
+     "start": 10.561,
+     "end": 11.081
+    }
+   ],
+   "start": 7.822,
+   "end": 11.411,
+   "labelAt": 7.972
+  },
+  {
+   "id": "snow",
+   "audioStart": 11.611,
+   "audioEnd": 15.755,
+   "words": [
+    {
+     "text": "Snow",
+     "start": 11.738,
+     "end": 12.013
+    },
+    {
+     "text": "days",
+     "start": 12.063,
+     "end": 12.338
+    },
+    {
+     "text": "every",
+     "start": 12.388,
+     "end": 12.638
+    },
+    {
+     "text": "day!",
+     "start": 12.688,
+     "end": 13.213
+    },
+    {
+     "text": "But",
+     "start": 13.338,
+     "end": 13.463
+    },
+    {
+     "text": "roads",
+     "start": 13.538,
+     "end": 13.913
+    },
+    {
+     "text": "would",
+     "start": 13.938,
+     "end": 14.013
+    },
+    {
+     "text": "be",
+     "start": 14.038,
+     "end": 14.163
+    },
+    {
+     "text": "icy",
+     "start": 14.238,
+     "end": 14.638
+    },
+    {
+     "text": "and",
+     "start": 14.688,
+     "end": 14.763
+    },
+    {
+     "text": "dangerous.",
+     "start": 14.813,
+     "end": 15.515
+    }
+   ],
+   "start": 11.411,
+   "end": 15.905,
+   "labelAt": 11.561
+  },
+  {
+   "id": "heat",
+   "audioStart": 16.105,
+   "audioEnd": 20.189,
+   "words": [
+    {
+     "text": "Keeping",
+     "start": 16.16,
+     "end": 16.535
+    },
+    {
+     "text": "every",
+     "start": 16.61,
+     "end": 16.86
+    },
+    {
+     "text": "home",
+     "start": 16.91,
+     "end": 17.185
+    },
+    {
+     "text": "warm",
+     "start": 17.235,
+     "end": 17.535
+    },
+    {
+     "text": "would",
+     "start": 17.585,
+     "end": 17.66
+    },
+    {
+     "text": "take",
+     "start": 17.71,
+     "end": 18.01
+    },
+    {
+     "text": "an",
+     "start": 18.06,
+     "end": 18.235
+    },
+    {
+     "text": "enormous",
+     "start": 18.31,
+     "end": 18.935
+    },
+    {
+     "text": "amount",
+     "start": 18.985,
+     "end": 19.31
+    },
+    {
+     "text": "of",
+     "start": 19.335,
+     "end": 19.41
+    },
+    {
+     "text": "energy.",
+     "start": 19.485,
+     "end": 20.009
+    }
+   ],
+   "start": 15.905,
+   "end": 20.339,
+   "labelAt": 16.055
+  },
+  {
+   "id": "outro",
+   "audioStart": 20.539,
+   "audioEnd": 23.73,
+   "words": [
+    {
+     "text": "So,",
+     "start": 20.644,
+     "end": 20.819
+    },
+    {
+     "text": "thank",
+     "start": 20.894,
+     "end": 21.094
+    },
+    {
+     "text": "you,",
+     "start": 21.144,
+     "end": 21.219
+    },
+    {
+     "text": "summer!",
+     "start": 21.294,
+     "end": 21.769
+    },
+    {
+     "text": "Subscribe",
+     "start": 21.969,
+     "end": 22.544
+    },
+    {
+     "text": "for",
+     "start": 22.594,
+     "end": 22.694
+    },
+    {
+     "text": "more",
+     "start": 22.744,
+     "end": 22.894
+    },
+    {
+     "text": "what-ifs.",
+     "start": 22.944,
+     "end": 23.59
+    }
+   ],
+   "start": 20.339,
+   "end": 25.33,
+   "labelAt": 20.489
+  }
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "id": "fish",
+ "duration": 25.045,
+ "scenes": [
+  {
+   "id": "hook",
+   "audioStart": 0.15,
+   "audioEnd": 3.101,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.276,
+     "end": 0.401
+    },
+    {
+     "text": "would",
+     "start": 0.426,
+     "end": 0.501
+    },
+    {
+     "text": "happen",
+     "start": 0.551,
+     "end": 0.876
+    },
+    {
+     "text": "if",
+     "start": 0.926,
+     "end": 1.026
+    },
+    {
+     "text": "all",
+     "start": 1.076,
+     "end": 1.251
+    },
+    {
+     "text": "the",
+     "start": 1.276,
+     "end": 1.351
+    },
+    {
+     "text": "fish",
+     "start": 1.451,
+     "end": 1.726
+    },
+    {
+     "text": "suddenly",
+     "start": 1.826,
+     "end": 2.151
+    },
+    {
+     "text": "disappeared?",
+     "start": 2.201,
+     "end": 2.881
+    }
+   ],
+   "start": 0.0,
+   "end": 3.351,
+   "labelAt": 0.15
+  },
+  {
+   "id": "animals",
+   "audioStart": 3.551,
+   "audioEnd": 7.981,
+   "words": [
+    {
+     "text": "First,",
+     "start": 3.656,
+     "end": 4.081
+    },
+    {
+     "text": "seabirds,",
+     "start": 4.256,
+     "end": 5.006
+    },
+    {
+     "text": "seals",
+     "start": 5.206,
+     "end": 5.606
+    },
+    {
+     "text": "and",
+     "start": 5.656,
+     "end": 5.731
+    },
+    {
+     "text": "dolphins",
+     "start": 5.781,
+     "end": 6.306
+    },
+    {
+     "text": "would",
+     "start": 6.356,
+     "end": 6.481
+    },
+    {
+     "text": "lose",
+     "start": 6.531,
+     "end": 6.756
+    },
+    {
+     "text": "their",
+     "start": 6.806,
+     "end": 6.956
+    },
+    {
+     "text": "main",
+     "start": 7.006,
+     "end": 7.256
+    },
+    {
+     "text": "food.",
+     "start": 7.356,
+     "end": 7.761
+    }
+   ],
+   "start": 3.351,
+   "end": 8.131,
+   "labelAt": 3.501
+  },
+  {
+   "id": "people",
+   "audioStart": 8.331,
+   "audioEnd": 12.339,
+   "words": [
+    {
+     "text": "Billions",
+     "start": 8.414,
+     "end": 8.839
+    },
+    {
+     "text": "of",
+     "start": 8.864,
+     "end": 8.939
+    },
+    {
+     "text": "people",
+     "start": 8.989,
+     "end": 9.389
+    },
+    {
+     "text": "eat",
+     "start": 9.464,
+     "end": 9.664
+    },
+    {
+     "text": "fish",
+     "start": 9.764,
+     "end": 10.339
+    },
+    {
+     "text": "as",
+     "start": 10.439,
+     "end": 10.514
+    },
+    {
+     "text": "an",
+     "start": 10.539,
+     "end": 10.589
+    },
+    {
+     "text": "important",
+     "start": 10.639,
+     "end": 11.114
+    },
+    {
+     "text": "part",
+     "start": 11.164,
+     "end": 11.389
+    },
+    {
+     "text": "of",
+     "start": 11.414,
+     "end": 11.464
+    },
+    {
+     "text": "their",
+     "start": 11.489,
+     "end": 11.639
+    },
+    {
+     "text": "diet.",
+     "start": 11.714,
+     "end": 12.149
+    }
+   ],
+   "start": 8.131,
+   "end": 12.489,
+   "labelAt": 8.281
+  },
+  {
+   "id": "algae",
+   "audioStart": 12.689,
+   "audioEnd": 16.26,
+   "words": [
+    {
+     "text": "Without",
+     "start": 12.748,
+     "end": 13.098
+    },
+    {
+     "text": "fish",
+     "start": 13.173,
+     "end": 13.398
+    },
+    {
+     "text": "eating",
+     "start": 13.473,
+     "end": 13.748
+    },
+    {
+     "text": "it,",
+     "start": 13.798,
+     "end": 14.073
+    },
+    {
+     "text": "algae",
+     "start": 14.248,
+     "end": 14.598
+    },
+    {
+     "text": "could",
+     "start": 14.648,
+     "end": 14.773
+    },
+    {
+     "text": "grow",
+     "start": 14.848,
+     "end": 15.098
+    },
+    {
+     "text": "out",
+     "start": 15.148,
+     "end": 15.273
+    },
+    {
+     "text": "of",
+     "start": 15.273,
+     "end": 15.348
+    },
+    {
+     "text": "control.",
+     "start": 15.398,
+     "end": 16.06
+    }
+   ],
+   "start": 12.489,
+   "end": 16.41,
+   "labelAt": 12.639
+  },
+  {
+   "id": "coral",
+   "audioStart": 16.61,
+   "audioEnd": 19.913,
+   "words": [
+    {
+     "text": "And",
+     "start": 16.711,
+     "end": 16.786
+    },
+    {
+     "text": "coral",
+     "start": 16.836,
+     "end": 17.161
+    },
+    {
+     "text": "reefs",
+     "start": 17.211,
+     "end": 17.661
+    },
+    {
+     "text": "need",
+     "start": 17.736,
+     "end": 17.961
+    },
+    {
+     "text": "fish",
+     "start": 18.036,
+     "end": 18.286
+    },
+    {
+     "text": "to",
+     "start": 18.336,
+     "end": 18.386
+    },
+    {
+     "text": "stay",
+     "start": 18.436,
+     "end": 18.661
+    },
+    {
+     "text": "clean",
+     "start": 18.736,
+     "end": 19.111
+    },
+    {
+     "text": "and",
+     "start": 19.136,
+     "end": 19.211
+    },
+    {
+     "text": "healthy.",
+     "start": 19.261,
+     "end": 19.703
+    }
+   ],
+   "start": 16.41,
+   "end": 20.063,
+   "labelAt": 16.56
+  },
+  {
+   "id": "outro",
+   "audioStart": 20.263,
+   "audioEnd": 23.445,
+   "words": [
+    {
+     "text": "So,",
+     "start": 20.368,
+     "end": 20.543
+    },
+    {
+     "text": "thank",
+     "start": 20.618,
+     "end": 20.793
+    },
+    {
+     "text": "you,",
+     "start": 20.843,
+     "end": 20.918
+    },
+    {
+     "text": "fish!",
+     "start": 20.993,
+     "end": 21.493
+    },
+    {
+     "text": "Subscribe",
+     "start": 21.668,
+     "end": 22.243
+    },
+    {
+     "text": "for",
+     "start": 22.293,
+     "end": 22.393
+    },
+    {
+     "text": "more",
+     "start": 22.443,
+     "end": 22.618
+    },
+    {
+     "text": "what-ifs.",
+     "start": 22.668,
+     "end": 23.335
+    }
+   ],
+   "start": 20.063,
+   "end": 25.045,
+   "labelAt": 20.213
+  }
+ ]
+}
